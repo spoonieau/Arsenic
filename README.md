@@ -4,7 +4,7 @@
 A ESP32-C3 based probe designed for the the automatic matching of r1234yf, r134, HC-30 and R744 refrigerant pressures from current atmospheric temperature.
 
 ## Features
-This Probe is deisgned for the the automatic matching of r1234yf, r134, HC-30 and R744 refrigerant pressures from current atmospheric temperature.
+This Probe is designed for the the automatic matching of r1234yf, r134, HC-30 and R744 refrigerant pressures from current atmospheric temperature.
 
 It is also equipped with a vent probe for use automotive air conditioning performance testing.
 
