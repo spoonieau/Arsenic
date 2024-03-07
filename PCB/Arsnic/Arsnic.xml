@@ -1,0 +1,1450 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="E">
+  <design>
+    <source>/home/spoonie/Documents/PlatformIO/Projects/Arsnic-C3/PCB/Arsnic/Arsnic.kicad_sch</source>
+    <date>Tue 26 Sep 2023 18:53:19</date>
+    <tool>Eeschema 7.0.7</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>Arsnic.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="BT1">
+      <value>Battery</value>
+      <fields>
+        <field name="ProductPage">https://ecocell.com.au/product/lipo-400-502535/</field>
+      </fields>
+      <libsource lib="Device" part="Battery" description="Multiple-cell battery"/>
+      <property name="ProductPage" value="https://ecocell.com.au/product/lipo-400-502535/"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Arsnic.kicad_sch"/>
+      <property name="ki_description" value="Multiple-cell battery"/>
+      <property name="ki_keywords" value="batt voltage-source cell"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>064fa27b-b63f-4c7b-9c9e-b73708a1fd08</tstamps>
+    </comp>
+    <comp ref="C1">
+      <value>1uF</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder</footprint>
+      <fields>
+        <field name="DigiKeyPN">1276-1076-1-ND - Cut Tape (CT)</field>
+        <field name="Price">$0.17600</field>
+        <field name="ProductPage">https://www.digikey.com.au/en/products/detail/samsung-electro-mechanics/CL05A105KP5NNNC/3886734</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="DigiKeyPN" value="1276-1076-1-ND - Cut Tape (CT)"/>
+      <property name="ProductPage" value="https://www.digikey.com.au/en/products/detail/samsung-electro-mechanics/CL05A105KP5NNNC/3886734"/>
+      <property name="Price" value="$0.17600"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Arsnic.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>fcd1fa8d-a95e-41bf-95d4-7b2fe7aaf26f</tstamps>
+    </comp>
+    <comp ref="C2">
+      <value>1uF</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder</footprint>
+      <fields>
+        <field name="DigiKeyPN">1276-1076-1-ND - Cut Tape (CT)</field>
+        <field name="Price">$0.17600</field>
+        <field name="ProductPage">https://www.digikey.com.au/en/products/detail/samsung-electro-mechanics/CL05A105KP5NNNC/3886734</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="DigiKeyPN" value="1276-1076-1-ND - Cut Tape (CT)"/>
+      <property name="ProductPage" value="https://www.digikey.com.au/en/products/detail/samsung-electro-mechanics/CL05A105KP5NNNC/3886734"/>
+      <property name="Price" value="$0.17600"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Arsnic.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0e4a168b-839f-4839-bc6a-b55e123a66cf</tstamps>
+    </comp>
+    <comp ref="C3">
+      <value>4.7uF</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder</footprint>
+      <fields>
+        <field name="DigiKeyPN">1276-1481-1-ND - Cut Tape (CT)</field>
+        <field name="Price">$0.17600</field>
+        <field name="ProductPage">https://www.digikey.com.au/en/products/detail/samsung-electro-mechanics/CL05A475KQ5NRNC/3887139</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="DigiKeyPN" value="1276-1481-1-ND - Cut Tape (CT)"/>
+      <property name="ProductPage" value="https://www.digikey.com.au/en/products/detail/samsung-electro-mechanics/CL05A475KQ5NRNC/3887139"/>
+      <property name="Price" value="$0.17600"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Arsnic.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9433b8bc-dc97-48ae-844d-e8d27eeeb49a</tstamps>
+    </comp>
+    <comp ref="C4">
+      <value>4.7uF</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder</footprint>
+      <fields>
+        <field name="DigiKeyPN">1276-1481-1-ND - Cut Tape (CT)</field>
+        <field name="Price">$0.17600</field>
+        <field name="ProductPage">https://www.digikey.com.au/en/products/detail/samsung-electro-mechanics/CL05A475KQ5NRNC/3887139</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="DigiKeyPN" value="1276-1481-1-ND - Cut Tape (CT)"/>
+      <property name="ProductPage" value="https://www.digikey.com.au/en/products/detail/samsung-electro-mechanics/CL05A475KQ5NRNC/3887139"/>
+      <property name="Price" value="$0.17600"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Arsnic.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>23653995-1138-46d4-aace-51e43e3d0ab7</tstamps>
+    </comp>
+    <comp ref="C5">
+      <value>1uF</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder</footprint>
+      <fields>
+        <field name="DigiKeyPN">1276-1076-1-ND - Cut Tape (CT)</field>
+        <field name="Price">$0.17600</field>
+        <field name="ProductPage">https://www.digikey.com.au/en/products/detail/samsung-electro-mechanics/CL05A105KP5NNNC/3886734</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="DigiKeyPN" value="1276-1076-1-ND - Cut Tape (CT)"/>
+      <property name="ProductPage" value="https://www.digikey.com.au/en/products/detail/samsung-electro-mechanics/CL05A105KP5NNNC/3886734"/>
+      <property name="Price" value="$0.17600"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Arsnic.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e66ff49d-7dbc-41bc-98a2-2845a6c00745</tstamps>
+    </comp>
+    <comp ref="C6">
+      <value>1uF</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder</footprint>
+      <fields>
+        <field name="DigiKeyPN">1276-1076-1-ND - Cut Tape (CT)</field>
+        <field name="Price">$0.17600</field>
+        <field name="ProductPage">https://www.digikey.com.au/en/products/detail/samsung-electro-mechanics/CL05A105KP5NNNC/3886734</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="DigiKeyPN" value="1276-1076-1-ND - Cut Tape (CT)"/>
+      <property name="ProductPage" value="https://www.digikey.com.au/en/products/detail/samsung-electro-mechanics/CL05A105KP5NNNC/3886734"/>
+      <property name="Price" value="$0.17600"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Arsnic.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8df1f00a-e48f-47be-a547-2c41322e673f</tstamps>
+    </comp>
+    <comp ref="C7">
+      <value>100nF 0.1uf</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder</footprint>
+      <fields>
+        <field name="DigiKeyPN">399-C0402C105K9PAC7867CT-ND - Cut Tape (CT)</field>
+        <field name="Price">$0.17600</field>
+        <field name="ProductPage">https://www.digikey.com.au/en/products/detail/kemet/C0402C105K9PAC7867/1090778</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="DigiKeyPN" value="399-C0402C105K9PAC7867CT-ND - Cut Tape (CT)"/>
+      <property name="ProductPage" value="https://www.digikey.com.au/en/products/detail/kemet/C0402C105K9PAC7867/1090778"/>
+      <property name="Price" value="$0.17600"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Arsnic.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9cf3e594-b9c1-4ed4-a980-47ad0e0859de</tstamps>
+    </comp>
+    <comp ref="C8">
+      <value>10uF</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <fields>
+        <field name="DigiKeyPN">490-13981-1-ND - Cut Tape (CT</field>
+        <field name="Price">$1.85900</field>
+        <field name="ProductPage">https://www.digikey.com.au/en/products/detail/murata-electronics/GRM21BR60J107ME15L/6155751</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="DigiKeyPN" value="490-13981-1-ND - Cut Tape (CT"/>
+      <property name="ProductPage" value="https://www.digikey.com.au/en/products/detail/murata-electronics/GRM21BR60J107ME15L/6155751"/>
+      <property name="Price" value="$1.85900"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Arsnic.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4866fab6-2c22-4d70-bb5e-eaff3db608e9</tstamps>
+    </comp>
+    <comp ref="C9">
+      <value>100uF</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder</footprint>
+      <fields>
+        <field name="DigiKeyPN">1276-1076-1-ND - Cut Tape (CT)</field>
+        <field name="ProductPage">https://www.digikey.com.au/en/products/detail/samsung-electro-mechanics/CL05A105KP5NNNC/3886734</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="DigiKeyPN" value="1276-1076-1-ND - Cut Tape (CT)"/>
+      <property name="ProductPage" value="https://www.digikey.com.au/en/products/detail/samsung-electro-mechanics/CL05A105KP5NNNC/3886734"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Arsnic.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d484bfe5-97a0-45ce-8765-7530b65dc5b7</tstamps>
+    </comp>
+    <comp ref="C10">
+      <value>1uF</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder</footprint>
+      <fields>
+        <field name="DigiKeyPN">1276-1076-1-ND - Cut Tape (CT)</field>
+        <field name="Price">$0.17600</field>
+        <field name="ProductPage">https://www.digikey.com.au/en/products/detail/samsung-electro-mechanics/CL05A105KP5NNNC/3886734</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="DigiKeyPN" value="1276-1076-1-ND - Cut Tape (CT)"/>
+      <property name="ProductPage" value="https://www.digikey.com.au/en/products/detail/samsung-electro-mechanics/CL05A105KP5NNNC/3886734"/>
+      <property name="Price" value="$0.17600"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Arsnic.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>bc15c015-540c-488d-b02e-a6ea60c600b1</tstamps>
+    </comp>
+    <comp ref="C11">
+      <value>100nF 0.1uf</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder</footprint>
+      <fields>
+        <field name="DigiKeyPN">399-C0402C105K9PAC7867CT-ND - Cut Tape (CT)</field>
+        <field name="Price">$0.17600</field>
+        <field name="ProductPage">https://www.digikey.com.au/en/products/detail/kemet/C0402C105K9PAC7867/1090778</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="DigiKeyPN" value="399-C0402C105K9PAC7867CT-ND - Cut Tape (CT)"/>
+      <property name="ProductPage" value="https://www.digikey.com.au/en/products/detail/kemet/C0402C105K9PAC7867/1090778"/>
+      <property name="Price" value="$0.17600"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Arsnic.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7d2c6901-7cb3-4cb4-837a-4d8ce29d15ce</tstamps>
+    </comp>
+    <comp ref="D1">
+      <value>D_Schottky</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <fields>
+        <field name="DigiKeyPN">B130LAW-FDICT-ND - Cut Tape (CT)</field>
+        <field name="Price">$0.63800</field>
+        <field name="ProductPage">https://www.digikey.com.au/en/products/detail/diodes-incorporated/B130LAW-7-F/725013</field>
+      </fields>
+      <libsource lib="Device" part="D_Schottky" description="Schottky diode"/>
+      <property name="DigiKeyPN" value="B130LAW-FDICT-ND - Cut Tape (CT)"/>
+      <property name="ProductPage" value="https://www.digikey.com.au/en/products/detail/diodes-incorporated/B130LAW-7-F/725013"/>
+      <property name="Price" value="$0.63800"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Arsnic.kicad_sch"/>
+      <property name="ki_description" value="Schottky diode"/>
+      <property name="ki_keywords" value="diode Schottky"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8ab468eb-86fb-4ad1-a23e-72d0bc99ff45</tstamps>
+    </comp>
+    <comp ref="D2">
+      <value>LED</value>
+      <footprint>LED_THT:LED_Rectangular_W3.0mm_H2.0mm</footprint>
+      <fields>
+        <field name="DigiKeyPN">754-1901-ND</field>
+        <field name="ProductPage">https://www.digikey.com.au/en/products/detail/kingbright/WP914IDT/3084285</field>
+      </fields>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="DigiKeyPN" value="754-1901-ND"/>
+      <property name="ProductPage" value="https://www.digikey.com.au/en/products/detail/kingbright/WP914IDT/3084285"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Arsnic.kicad_sch"/>
+      <property name="ki_description" value="Light emitting diode"/>
+      <property name="ki_keywords" value="LED diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>42c00c3d-6236-4110-95fd-838abb128024</tstamps>
+    </comp>
+    <comp ref="D3">
+      <value>WS2812B</value>
+      <footprint>LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm</footprint>
+      <datasheet>https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf</datasheet>
+      <fields>
+        <field name="DigiKeyPN">1568-COM-16347CT-ND - Cut Tape (CT)</field>
+        <field name="Price">$1.06700</field>
+        <field name="ProductPage">https://www.digikey.com.au/en/products/detail/sparkfun-electronics/COM-16347/11630204</field>
+      </fields>
+      <libsource lib="LED" part="WS2812B" description="RGB LED with integrated controller"/>
+      <property name="DigiKeyPN" value="1568-COM-16347CT-ND - Cut Tape (CT)"/>
+      <property name="ProductPage" value="https://www.digikey.com.au/en/products/detail/sparkfun-electronics/COM-16347/11630204"/>
+      <property name="Price" value="$1.06700"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Arsnic.kicad_sch"/>
+      <property name="ki_description" value="RGB LED with integrated controller"/>
+      <property name="ki_keywords" value="RGB LED NeoPixel addressable"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a51e0c54-0ed1-4a74-8cd4-64934161edd4</tstamps>
+    </comp>
+    <comp ref="D4">
+      <value>PRTR5V0U2X</value>
+      <footprint>Package_TO_SOT_SMD:SOT-143</footprint>
+      <datasheet>https://assets.nexperia.com/documents/data-sheet/PRTR5V0U2X.pdf</datasheet>
+      <fields>
+        <field name="DigiKeyPN">1727-3884-1-ND - Cut Tape (CT)</field>
+        <field name="Price">$0.89100</field>
+        <field name="ProductPage">https://www.digikey.com.au/en/products/detail/nexperia-usa-inc/PRTR5V0U2X-215/1163690</field>
+      </fields>
+      <libsource lib="Power_Protection" part="PRTR5V0U2X" description="Ultra low capacitance double rail-to-rail ESD protection diode, SOT-143"/>
+      <property name="DigiKeyPN" value="1727-3884-1-ND - Cut Tape (CT)"/>
+      <property name="ProductPage" value="https://www.digikey.com.au/en/products/detail/nexperia-usa-inc/PRTR5V0U2X-215/1163690"/>
+      <property name="Price" value="$0.89100"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Arsnic.kicad_sch"/>
+      <property name="ki_description" value="Ultra low capacitance double rail-to-rail ESD protection diode, SOT-143"/>
+      <property name="ki_keywords" value="ESD protection diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8ead4b1f-7c0b-4bbd-9e8d-f754a6a60728</tstamps>
+    </comp>
+    <comp ref="F1">
+      <value>Polyfuse</value>
+      <footprint>Fuse:Fuse_1206_3216Metric_Pad1.42x1.75mm_HandSolder</footprint>
+      <fields>
+        <field name="DigiKeyPN">F2112CT-ND - Cut Tape (CT)</field>
+        <field name="Price">$0.86900</field>
+        <field name="ProductPage">https://www.digikey.com.au/en/products/detail/littelfuse-inc/1206L050YR/455698</field>
+      </fields>
+      <libsource lib="Device" part="Polyfuse" description="Resettable fuse, polymeric positive temperature coefficient"/>
+      <property name="DigiKeyPN" value="F2112CT-ND - Cut Tape (CT)"/>
+      <property name="ProductPage" value="https://www.digikey.com.au/en/products/detail/littelfuse-inc/1206L050YR/455698"/>
+      <property name="Price" value="$0.86900"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Arsnic.kicad_sch"/>
+      <property name="ki_description" value="Resettable fuse, polymeric positive temperature coefficient"/>
+      <property name="ki_keywords" value="resettable fuse PTC PPTC polyfuse polyswitch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ff8c90c2-6280-4f67-ad0d-67ad660b96b7</tstamps>
+    </comp>
+    <comp ref="J1">
+      <value>USB4105-GF-A</value>
+      <footprint>USB4105-GF-A:GCT_USB4105-GF-A</footprint>
+      <fields>
+        <field name="DigiKeyPN">2073-USB4105-GF-ACT-ND - Cut Tape (CT)</field>
+        <field name="Price">$1.44100</field>
+        <field name="ProductPage">https://www.digikey.com.au/en/products/detail/gct/USB4105-GF-A/11198441</field>
+      </fields>
+      <libsource lib="USB4105-GF-A" part="USB4105-GF-A" description=""/>
+      <property name="DigiKeyPN" value="2073-USB4105-GF-ACT-ND - Cut Tape (CT)"/>
+      <property name="ProductPage" value="https://www.digikey.com.au/en/products/detail/gct/USB4105-GF-A/11198441"/>
+      <property name="Price" value="$1.44100"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Arsnic.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>98839cbc-5633-4512-b6c7-19015873ae13</tstamps>
+    </comp>
+    <comp ref="J2">
+      <value>Conn_01x01_Pin</value>
+      <libsource lib="Connector" part="Conn_01x01_Pin" description="Generic connector, single row, 01x01, script generated"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Arsnic.kicad_sch"/>
+      <property name="ki_description" value="Generic connector, single row, 01x01, script generated"/>
+      <property name="ki_keywords" value="connector"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>84d86bfc-6df2-48c6-8550-1fd2d4ed3df0</tstamps>
+    </comp>
+    <comp ref="J3">
+      <value>Conn_01x01_Socket</value>
+      <libsource lib="Connector" part="Conn_01x01_Socket" description="Generic connector, single row, 01x01, script generated"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Arsnic.kicad_sch"/>
+      <property name="ki_description" value="Generic connector, single row, 01x01, script generated"/>
+      <property name="ki_keywords" value="connector"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>40ecc14e-926c-47c1-849e-f56bfa3e8605</tstamps>
+    </comp>
+    <comp ref="J4">
+      <value>Conn_01x01_Pin</value>
+      <libsource lib="Connector" part="Conn_01x01_Pin" description="Generic connector, single row, 01x01, script generated"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Arsnic.kicad_sch"/>
+      <property name="ki_description" value="Generic connector, single row, 01x01, script generated"/>
+      <property name="ki_keywords" value="connector"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d5b3d600-bccb-4716-af5c-31b739142ff9</tstamps>
+    </comp>
+    <comp ref="J5">
+      <value>Conn_01x01_Socket</value>
+      <libsource lib="Connector" part="Conn_01x01_Socket" description="Generic connector, single row, 01x01, script generated"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Arsnic.kicad_sch"/>
+      <property name="ki_description" value="Generic connector, single row, 01x01, script generated"/>
+      <property name="ki_keywords" value="connector"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d00b1005-8d7b-4d33-92b6-88f27f863223</tstamps>
+    </comp>
+    <comp ref="J6">
+      <value>Conn_01x01_Pin</value>
+      <libsource lib="Connector" part="Conn_01x01_Pin" description="Generic connector, single row, 01x01, script generated"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Arsnic.kicad_sch"/>
+      <property name="ki_description" value="Generic connector, single row, 01x01, script generated"/>
+      <property name="ki_keywords" value="connector"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00c02c9c-ba47-4a2f-b599-3d65715ffeca</tstamps>
+    </comp>
+    <comp ref="J7">
+      <value>Conn_01x01_Socket</value>
+      <libsource lib="Connector" part="Conn_01x01_Socket" description="Generic connector, single row, 01x01, script generated"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Arsnic.kicad_sch"/>
+      <property name="ki_description" value="Generic connector, single row, 01x01, script generated"/>
+      <property name="ki_keywords" value="connector"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>60e58179-9812-482a-9c3e-ddd8976fd4cc</tstamps>
+    </comp>
+    <comp ref="J8">
+      <value>PTS636_SM25F_SMTR_LFS</value>
+      <footprint>PTS636_SM25F_SMTR_LFS:PTS636SM25FSMTRLFS</footprint>
+      <fields>
+        <field name="DigiKeyPN">CKN12309-1-ND - Cut Tape (CT)</field>
+        <field name="Price">$0.25300</field>
+        <field name="ProductPage">https://www.digikey.com.au/en/products/detail/c-k/PTS636-SL43-SMTR-LFS/10071722</field>
+      </fields>
+      <libsource lib="PTS636_SM25F_SMTR_LFS" part="PTS636_SM25F_SMTR_LFS" description=""/>
+      <property name="DigiKeyPN" value="CKN12309-1-ND - Cut Tape (CT)"/>
+      <property name="ProductPage" value="https://www.digikey.com.au/en/products/detail/c-k/PTS636-SL43-SMTR-LFS/10071722"/>
+      <property name="Price" value="$0.25300"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Arsnic.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>cb2ec11f-06cc-4c9b-b798-d4e9be23e705</tstamps>
+    </comp>
+    <comp ref="J9">
+      <value>PTS636_SM25F_SMTR_LFS</value>
+      <footprint>PTS636_SM25F_SMTR_LFS:PTS636SM25FSMTRLFS</footprint>
+      <fields>
+        <field name="DigiKeyPN">CKN12309-1-ND - Cut Tape (CT)</field>
+        <field name="Price">$0.25300</field>
+        <field name="ProductPage">https://www.digikey.com.au/en/products/detail/c-k/PTS636-SL43-SMTR-LFS/10071722</field>
+      </fields>
+      <libsource lib="PTS636_SM25F_SMTR_LFS" part="PTS636_SM25F_SMTR_LFS" description=""/>
+      <property name="DigiKeyPN" value="CKN12309-1-ND - Cut Tape (CT)"/>
+      <property name="ProductPage" value="https://www.digikey.com.au/en/products/detail/c-k/PTS636-SL43-SMTR-LFS/10071722"/>
+      <property name="Price" value="$0.25300"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Arsnic.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>285ff5cd-ceab-421b-9bc4-cb850c41b843</tstamps>
+    </comp>
+    <comp ref="Q1">
+      <value>DMP1045U</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23-3</footprint>
+      <fields>
+        <field name="DigiKeyPN">DMP1045U-7DICT-ND - Cut Tape (CT)</field>
+        <field name="Price">$0.77000</field>
+        <field name="ProductPage">https://www.digikey.com.au/en/products/detail/diodes-incorporated/DMP1045U-7/4249936</field>
+      </fields>
+      <libsource lib="Device" part="Q_PMOS_DGS" description="P-MOSFET transistor, drain/gate/source"/>
+      <property name="DigiKeyPN" value="DMP1045U-7DICT-ND - Cut Tape (CT)"/>
+      <property name="ProductPage" value="https://www.digikey.com.au/en/products/detail/diodes-incorporated/DMP1045U-7/4249936"/>
+      <property name="Price" value="$0.77000"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Arsnic.kicad_sch"/>
+      <property name="ki_description" value="P-MOSFET transistor, drain/gate/source"/>
+      <property name="ki_keywords" value="transistor PMOS P-MOS P-MOSFET"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>652cb815-a7af-4291-8c63-19dc39e21ece</tstamps>
+    </comp>
+    <comp ref="R1">
+      <value>100k</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder</footprint>
+      <fields>
+        <field name="DigiKeyPN">1292-WR04X104JTLCT-ND - Cut Tape (CT)</field>
+        <field name="Price">$0.17600</field>
+        <field name="ProductPage">https://www.digikey.com.au/en/products/detail/walsin-technology-corporation/WR04X104-JTL/13239188</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="DigiKeyPN" value="1292-WR04X104JTLCT-ND - Cut Tape (CT)"/>
+      <property name="ProductPage" value="https://www.digikey.com.au/en/products/detail/walsin-technology-corporation/WR04X104-JTL/13239188"/>
+      <property name="Price" value="$0.17600"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Arsnic.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3c6b8d5a-a1cc-4dde-9c92-e903979e22ab</tstamps>
+    </comp>
+    <comp ref="R2">
+      <value>10k</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder</footprint>
+      <fields>
+        <field name="DigiKeyPN">311-10.0KLRCT-ND - Cut Tape (CT)</field>
+        <field name="Price">$0.17600</field>
+        <field name="ProductPage">https://www.digikey.com.au/en/products/detail/yageo/RC0402FR-0710KL/726523</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="DigiKeyPN" value="311-10.0KLRCT-ND - Cut Tape (CT)"/>
+      <property name="ProductPage" value="https://www.digikey.com.au/en/products/detail/yageo/RC0402FR-0710KL/726523"/>
+      <property name="Price" value="$0.17600"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Arsnic.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>66a11151-b53e-4f8e-b59f-e8dae4d1d755</tstamps>
+    </comp>
+    <comp ref="R3">
+      <value>10k</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder</footprint>
+      <fields>
+        <field name="DigiKeyPN">311-10.0KLRCT-ND - Cut Tape (CT)</field>
+        <field name="Price">$0.17600</field>
+        <field name="ProductPage">https://www.digikey.com.au/en/products/detail/yageo/RC0402FR-0710KL/726523</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="DigiKeyPN" value="311-10.0KLRCT-ND - Cut Tape (CT)"/>
+      <property name="ProductPage" value="https://www.digikey.com.au/en/products/detail/yageo/RC0402FR-0710KL/726523"/>
+      <property name="Price" value="$0.17600"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Arsnic.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>94672845-21c7-4c64-824b-6ed43ec542a1</tstamps>
+    </comp>
+    <comp ref="R4">
+      <value>470</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder</footprint>
+      <fields>
+        <field name="DigiKeyPN">1292-WR04X4700FTLCT-ND - Cut Tape (CT)</field>
+        <field name="Price">$0.17600</field>
+        <field name="ProductPage">https://www.digikey.com.au/en/products/detail/walsin-technology-corporation/WR04X4700FTL/13238725</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="DigiKeyPN" value="1292-WR04X4700FTLCT-ND - Cut Tape (CT)"/>
+      <property name="ProductPage" value="https://www.digikey.com.au/en/products/detail/walsin-technology-corporation/WR04X4700FTL/13238725"/>
+      <property name="Price" value="$0.17600"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Arsnic.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0a7aecc1-f6a8-444a-9d6f-d12c4b18b600</tstamps>
+    </comp>
+    <comp ref="R5">
+      <value>10k</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder</footprint>
+      <fields>
+        <field name="DigiKeyPN">311-10.0KLRCT-ND - Cut Tape (CT)</field>
+        <field name="Price">$0.17600</field>
+        <field name="ProductPage">https://www.digikey.com.au/en/products/detail/yageo/RC0402FR-0710KL/726523</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="DigiKeyPN" value="311-10.0KLRCT-ND - Cut Tape (CT)"/>
+      <property name="ProductPage" value="https://www.digikey.com.au/en/products/detail/yageo/RC0402FR-0710KL/726523"/>
+      <property name="Price" value="$0.17600"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Arsnic.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a3c365b7-8378-455a-9076-c3a37eb71e08</tstamps>
+    </comp>
+    <comp ref="R6">
+      <value>5.1</value>
+      <fields>
+        <field name="DigiKeyPN">311-5.1JRCT-ND - Cut Tape (CT)</field>
+        <field name="Price">$0.17600</field>
+        <field name="ProductPage">https://www.digikey.com.au/en/products/detail/yageo/RC0402JR-075R1L/726486</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="DigiKeyPN" value="311-5.1JRCT-ND - Cut Tape (CT)"/>
+      <property name="ProductPage" value="https://www.digikey.com.au/en/products/detail/yageo/RC0402JR-075R1L/726486"/>
+      <property name="Price" value="$0.17600"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Arsnic.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>204a45aa-6df0-4784-92cd-f684f8957cfc</tstamps>
+    </comp>
+    <comp ref="R7">
+      <value>5.1</value>
+      <fields>
+        <field name="DigiKeyPN">311-5.1JRCT-ND - Cut Tape (CT)</field>
+        <field name="Price">$0.17600</field>
+        <field name="ProductPage">https://www.digikey.com.au/en/products/detail/yageo/RC0402JR-075R1L/726486</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="DigiKeyPN" value="311-5.1JRCT-ND - Cut Tape (CT)"/>
+      <property name="ProductPage" value="https://www.digikey.com.au/en/products/detail/yageo/RC0402JR-075R1L/726486"/>
+      <property name="Price" value="$0.17600"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Arsnic.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2c5c946a-d3ab-45bb-8b51-762f6f83882d</tstamps>
+    </comp>
+    <comp ref="R8">
+      <value>10k</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder</footprint>
+      <fields>
+        <field name="DigiKeyPN">311-10.0KLRCT-ND - Cut Tape (CT)</field>
+        <field name="Price">$0.17600</field>
+        <field name="ProductPage">https://www.digikey.com.au/en/products/detail/yageo/RC0402FR-0710KL/726523</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="DigiKeyPN" value="311-10.0KLRCT-ND - Cut Tape (CT)"/>
+      <property name="ProductPage" value="https://www.digikey.com.au/en/products/detail/yageo/RC0402FR-0710KL/726523"/>
+      <property name="Price" value="$0.17600"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Arsnic.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c4c396cf-ce84-48c4-b7bf-616a934dcd8b</tstamps>
+    </comp>
+    <comp ref="R9">
+      <value>10k</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder</footprint>
+      <fields>
+        <field name="DigiKeyPN">311-10.0KLRCT-ND - Cut Tape (CT)</field>
+        <field name="Price">$0.17600</field>
+        <field name="ProductPage">https://www.digikey.com.au/en/products/detail/yageo/RC0402FR-0710KL/726523</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="DigiKeyPN" value="311-10.0KLRCT-ND - Cut Tape (CT)"/>
+      <property name="ProductPage" value="https://www.digikey.com.au/en/products/detail/yageo/RC0402FR-0710KL/726523"/>
+      <property name="Price" value="$0.17600"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Arsnic.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>fe63bf6d-8edc-46ef-9bdc-f51214c2efde</tstamps>
+    </comp>
+    <comp ref="R10">
+      <value>4.7k</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder</footprint>
+      <fields>
+        <field name="DigiKeyPN">311-4.7KLRCT-ND - Cut Tape (CT)</field>
+        <field name="Price">$0.17600</field>
+        <field name="ProductPage">https://www.digikey.com.au/en/products/detail/yageo/RC0402FR-074K7L/2827563</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="DigiKeyPN" value="311-4.7KLRCT-ND - Cut Tape (CT)"/>
+      <property name="ProductPage" value="https://www.digikey.com.au/en/products/detail/yageo/RC0402FR-074K7L/2827563"/>
+      <property name="Price" value="$0.17600"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Arsnic.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5ad89bba-5b00-488c-b3aa-73a8ca03c689</tstamps>
+    </comp>
+    <comp ref="R11">
+      <value>10k</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder</footprint>
+      <fields>
+        <field name="DigiKeyPN">311-10.0KLRCT-ND - Cut Tape (CT)</field>
+        <field name="Price">$0.17600</field>
+        <field name="ProductPage">https://www.digikey.com.au/en/products/detail/yageo/RC0402FR-0710KL/726523</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="DigiKeyPN" value="311-10.0KLRCT-ND - Cut Tape (CT)"/>
+      <property name="ProductPage" value="https://www.digikey.com.au/en/products/detail/yageo/RC0402FR-0710KL/726523"/>
+      <property name="Price" value="$0.17600"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Arsnic.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b86895b7-c3db-4e71-b0b0-5a4686200af5</tstamps>
+    </comp>
+    <comp ref="R12">
+      <value>10k</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder</footprint>
+      <fields>
+        <field name="DigiKeyPN">311-10.0KLRCT-ND - Cut Tape (CT)</field>
+        <field name="Price">$0.17600</field>
+        <field name="ProductPage">https://www.digikey.com.au/en/products/detail/yageo/RC0402FR-0710KL/726523</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="DigiKeyPN" value="311-10.0KLRCT-ND - Cut Tape (CT)"/>
+      <property name="ProductPage" value="https://www.digikey.com.au/en/products/detail/yageo/RC0402FR-0710KL/726523"/>
+      <property name="Price" value="$0.17600"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Arsnic.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3e6962c0-9643-4563-9811-b9565ec97634</tstamps>
+    </comp>
+    <comp ref="S1">
+      <value>GF-123-0054</value>
+      <footprint>GF-123-0054:SW_GF-123-0054</footprint>
+      <fields>
+        <field name="DigiKeyPN">CWI333-ND</field>
+        <field name="Price">$2.67300</field>
+        <field name="ProductPage">https://www.digikey.com.au/en/products/detail/cw-industries/GF-123-0054/4089770</field>
+      </fields>
+      <libsource lib="GF-123-0054" part="GF-123-0054" description=""/>
+      <property name="DigiKeyPN" value="CWI333-ND"/>
+      <property name="ProductPage" value="https://www.digikey.com.au/en/products/detail/cw-industries/GF-123-0054/4089770"/>
+      <property name="Price" value="$2.67300"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Arsnic.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e974a71f-0eb2-4098-a57e-938aa42092b0</tstamps>
+    </comp>
+    <comp ref="U1">
+      <value>MCP73831-2-OT</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23-5</footprint>
+      <datasheet>http://ww1.microchip.com/downloads/en/DeviceDoc/20001984g.pdf</datasheet>
+      <fields>
+        <field name="DigiKeyPN">MCP73831T-2ACI/OTCT-ND - Cut Tape (CT)</field>
+        <field name="Price">$1.35300</field>
+        <field name="ProductPage">https://www.digikey.com.au/en/products/detail/microchip-technology/MCP73831T-2ACI-OT/964301</field>
+      </fields>
+      <libsource lib="Battery_Management" part="MCP73831-2-OT" description="Single cell, Li-Ion/Li-Po charge management controller, 4.20V, Tri-State Status Output, in SOT23-5 package"/>
+      <property name="DigiKeyPN" value="MCP73831T-2ACI/OTCT-ND - Cut Tape (CT)"/>
+      <property name="ProductPage" value="https://www.digikey.com.au/en/products/detail/microchip-technology/MCP73831T-2ACI-OT/964301"/>
+      <property name="Price" value="$1.35300"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Arsnic.kicad_sch"/>
+      <property name="ki_description" value="Single cell, Li-Ion/Li-Po charge management controller, 4.20V, Tri-State Status Output, in SOT23-5 package"/>
+      <property name="ki_keywords" value="battery charger lithium"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>14ea17b3-ef92-48d4-90ea-683bcecc1193</tstamps>
+    </comp>
+    <comp ref="U2">
+      <value>AP2112K-3.3</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23-5</footprint>
+      <datasheet>https://www.diodes.com/assets/Datasheets/AP2112.pdf</datasheet>
+      <fields>
+        <field name="DigiKeyPN">AP2112K-3.3TRG1DICT-ND - Cut Tape (CT)</field>
+        <field name="Price">$0.62700</field>
+        <field name="ProductPage">https://www.digikey.com.au/en/products/detail/diodes-incorporated/AP2112K-3-3TRG1/4470746?s=N4IgTCBcDaIIIAUwEZlgNIFoDMA6bIAugL5A</field>
+      </fields>
+      <libsource lib="Regulator_Linear" part="AP2112K-3.3" description="600mA low dropout linear regulator, with enable pin, 3.8V-6V input voltage range, 3.3V fixed positive output, SOT-23-5"/>
+      <property name="DigiKeyPN" value="AP2112K-3.3TRG1DICT-ND - Cut Tape (CT)"/>
+      <property name="ProductPage" value="https://www.digikey.com.au/en/products/detail/diodes-incorporated/AP2112K-3-3TRG1/4470746?s=N4IgTCBcDaIIIAUwEZlgNIFoDMA6bIAugL5A"/>
+      <property name="Price" value="$0.62700"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Arsnic.kicad_sch"/>
+      <property name="ki_description" value="600mA low dropout linear regulator, with enable pin, 3.8V-6V input voltage range, 3.3V fixed positive output, SOT-23-5"/>
+      <property name="ki_keywords" value="linear regulator ldo fixed positive"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e8b05faa-4502-4011-bdf9-ef2d71c1eedb</tstamps>
+    </comp>
+    <comp ref="U3">
+      <value>SHT40-AD1B-R3</value>
+      <footprint>SHT40-AD1B-R3:SHT4X</footprint>
+      <fields>
+        <field name="DigiKeyPN">1649-SHT40-AD1B-R3CT-ND</field>
+        <field name="Price">$4.85100</field>
+        <field name="ProductPage">https://www.digikey.com.au/en/products/detail/sensirion-ag/SHT40-AD1B-R3/14322709?s=N4IgTCBcDaIMoAkAqAWADAWgIIBECMAQhgEoDMIAugL5A</field>
+      </fields>
+      <libsource lib="SHT40-AD1B-R3" part="SHT40-AD1B-R3" description=""/>
+      <property name="DigiKeyPN" value="1649-SHT40-AD1B-R3CT-ND"/>
+      <property name="ProductPage" value="https://www.digikey.com.au/en/products/detail/sensirion-ag/SHT40-AD1B-R3/14322709?s=N4IgTCBcDaIMoAkAqAWADAWgIIBECMAQhgEoDMIAugL5A"/>
+      <property name="Price" value="$4.85100"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Arsnic.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>141c3661-50c7-4727-8260-45eff6345d3b</tstamps>
+    </comp>
+    <comp ref="U4">
+      <value>DS18B20</value>
+      <footprint>Package_TO_SOT_THT:TO-92_Inline</footprint>
+      <datasheet>http://datasheets.maximintegrated.com/en/ds/DS18B20.pdf</datasheet>
+      <fields>
+        <field name="DigiKeyPN">1568-1228-ND</field>
+        <field name="Price">$20.07</field>
+        <field name="ProductPage">https://www.digikey.com.au/en/products/detail/sparkfun-electronics/SEN-11050/5721423</field>
+      </fields>
+      <libsource lib="Sensor_Temperature" part="DS18B20" description="Programmable Resolution 1-Wire Digital Thermometer TO-92"/>
+      <property name="DigiKeyPN" value="1568-1228-ND"/>
+      <property name="ProductPage" value="https://www.digikey.com.au/en/products/detail/sparkfun-electronics/SEN-11050/5721423"/>
+      <property name="Price" value="$20.07"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Arsnic.kicad_sch"/>
+      <property name="ki_description" value="Programmable Resolution 1-Wire Digital Thermometer TO-92"/>
+      <property name="ki_keywords" value="OneWire 1Wire Dallas Maxim"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3e7d4f03-8c98-488e-b2a7-f3813d16d613</tstamps>
+    </comp>
+    <comp ref="U5">
+      <value>ESP32-C3-WROOM-02</value>
+      <footprint>Espressif:ESP32-C3-WROOM-02</footprint>
+      <datasheet>https://www.espressif.com/sites/default/files/documentation/esp32-c3-wroom-02_datasheet_en.pdf</datasheet>
+      <fields>
+        <field name="DigiKeyPN">1965-ESP32-C3-WROOM-02-N4CT-ND</field>
+        <field name="Price">$3.38800</field>
+        <field name="ProductPage">https://www.digikey.com.au/en/products/detail/espressif-systems/ESP32-C3-WROOM-02-N4/14553031</field>
+      </fields>
+      <libsource lib="PCM_Espressif" part="ESP32-C3-WROOM-02" description="ESP32-C3-WROOM-02 is a general-purpose Wi-Fi and Bluetooth LE module. This module features a rich set of peripherals and high performance, which makes it an ideal choice for smart home, industrial automation, health care, consumer electronics, etc."/>
+      <property name="DigiKeyPN" value="1965-ESP32-C3-WROOM-02-N4CT-ND"/>
+      <property name="ProductPage" value="https://www.digikey.com.au/en/products/detail/espressif-systems/ESP32-C3-WROOM-02-N4/14553031"/>
+      <property name="Price" value="$3.38800"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Arsnic.kicad_sch"/>
+      <property name="ki_description" value="ESP32-C3-WROOM-02 is a general-purpose Wi-Fi and Bluetooth LE module. This module features a rich set of peripherals and high performance, which makes it an ideal choice for smart home, industrial automation, health care, consumer electronics, etc."/>
+      <property name="ki_keywords" value="esp32-c3 module"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>39c258ae-1563-45b8-899c-c2a72663f455</tstamps>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="Battery_Management" part="MCP73831-2-OT">
+      <description>Single cell, Li-Ion/Li-Po charge management controller, 4.20V, Tri-State Status Output, in SOT23-5 package</description>
+      <docs>http://ww1.microchip.com/downloads/en/DeviceDoc/20001984g.pdf</docs>
+      <footprints>
+        <fp>SOT?23*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">MCP73831-2-OT</field>
+        <field name="Footprint">Package_TO_SOT_SMD:SOT-23-5</field>
+        <field name="Datasheet">http://ww1.microchip.com/downloads/en/DeviceDoc/20001984g.pdf</field>
+      </fields>
+      <pins>
+        <pin num="1" name="STAT" type="output"/>
+        <pin num="2" name="V_{SS}" type="power_in"/>
+        <pin num="3" name="V_{BAT}" type="power_out"/>
+        <pin num="4" name="V_{DD}" type="power_in"/>
+        <pin num="5" name="PROG" type="input"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector" part="Conn_01x01_Pin">
+      <description>Generic connector, single row, 01x01, script generated</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_1x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_01x01_Pin</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector" part="Conn_01x01_Socket">
+      <description>Generic connector, single row, 01x01, script generated</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_1x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_01x01_Socket</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="Battery">
+      <description>Multiple-cell battery</description>
+      <docs>~</docs>
+      <fields>
+        <field name="Reference">BT</field>
+        <field name="Value">Battery</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="+" type="passive"/>
+        <pin num="2" name="-" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="C">
+      <description>Unpolarized capacitor</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>C_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">C</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="D_Schottky">
+      <description>Schottky diode</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>TO-???*</fp>
+        <fp>*_Diode_*</fp>
+        <fp>*SingleDiode*</fp>
+        <fp>D_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">D_Schottky</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="K" type="passive"/>
+        <pin num="2" name="A" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="LED">
+      <description>Light emitting diode</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>LED*</fp>
+        <fp>LED_SMD:*</fp>
+        <fp>LED_THT:*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">LED</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="K" type="passive"/>
+        <pin num="2" name="A" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="Polyfuse">
+      <description>Resettable fuse, polymeric positive temperature coefficient</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>*polyfuse*</fp>
+        <fp>*PTC*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">F</field>
+        <field name="Value">Polyfuse</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="Q_PMOS_DGS">
+      <description>P-MOSFET transistor, drain/gate/source</description>
+      <docs>~</docs>
+      <fields>
+        <field name="Reference">Q</field>
+        <field name="Value">Q_PMOS_DGS</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="D" type="passive"/>
+        <pin num="2" name="G" type="input"/>
+        <pin num="3" name="S" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="R">
+      <description>Resistor</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>R_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">R</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="GF-123-0054" part="GF-123-0054">
+      <fields>
+        <field name="Reference">S</field>
+        <field name="Value">GF-123-0054</field>
+        <field name="Footprint">GF-123-0054:SW_GF-123-0054</field>
+        <field name="DigiKey_Part_Number">CWI333-ND</field>
+        <field name="MF">CW Industries</field>
+        <field name="Purchase-URL">https://www.snapeda.com/api/url_track_click_mouser/?unipart_id=2176135&amp;manufacturer=CW Industries&amp;part_name=GF-123-0054&amp;search_term=None</field>
+        <field name="Package">None</field>
+        <field name="Check_prices">https://www.snapeda.com/parts/GF-123-0054/CW+Industries/view-part/?ref=eda</field>
+        <field name="MAXIMUM_PACKAGE_HIEGHT">14.96 mm</field>
+        <field name="STANDARD">Manufacturer Recommendations</field>
+        <field name="PARTREV">May 20, 2003</field>
+        <field name="SnapEDA_Link">https://www.snapeda.com/parts/GF-123-0054/CW+Industries/view-part/?ref=snap</field>
+        <field name="MP">GF-123-0054</field>
+        <field name="Description">
+Slide Switch,Mini,G Series,SPST,ON-OFF,Top Actuated,0.5A,125VDC,8.5A,125V,PC | CW Industries GF-123-0054
+</field>
+        <field name="MANUFACTURER">CW Industries</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="LED" part="WS2812B">
+      <description>RGB LED with integrated controller</description>
+      <docs>https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf</docs>
+      <footprints>
+        <fp>LED*WS2812*PLCC*5.0x5.0mm*P3.2mm*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">WS2812B</field>
+        <field name="Footprint">LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm</field>
+        <field name="Datasheet">https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf</field>
+      </fields>
+      <pins>
+        <pin num="1" name="VDD" type="power_in"/>
+        <pin num="2" name="DOUT" type="output"/>
+        <pin num="3" name="VSS" type="power_in"/>
+        <pin num="4" name="DIN" type="input"/>
+      </pins>
+    </libpart>
+    <libpart lib="PCM_Espressif" part="ESP32-C3-WROOM-02">
+      <description>ESP32-C3-WROOM-02 is a general-purpose Wi-Fi and Bluetooth LE module. This module features a rich set of peripherals and high performance, which makes it an ideal choice for smart home, industrial automation, health care, consumer electronics, etc.</description>
+      <docs>https://www.espressif.com/sites/default/files/documentation/esp32-c3-wroom-02_datasheet_en.pdf</docs>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">ESP32-C3-WROOM-02</field>
+        <field name="Footprint">Espressif:ESP32-C3-WROOM-02</field>
+        <field name="Datasheet">https://www.espressif.com/sites/default/files/documentation/esp32-c3-wroom-02_datasheet_en.pdf</field>
+      </fields>
+      <pins>
+        <pin num="1" name="3V3" type="power_in"/>
+        <pin num="2" name="EN/CHIP_PU" type="input"/>
+        <pin num="3" name="GPIO4/ADC1_CH4" type="bidirectional"/>
+        <pin num="4" name="GPIO5/ADC2_CH0" type="bidirectional"/>
+        <pin num="5" name="GPIO6" type="bidirectional"/>
+        <pin num="6" name="GPIO7" type="bidirectional"/>
+        <pin num="7" name="GPIO8" type="bidirectional"/>
+        <pin num="8" name="GPIO9" type="bidirectional"/>
+        <pin num="9" name="GND" type="passive"/>
+        <pin num="10" name="GPIO10" type="bidirectional"/>
+        <pin num="11" name="GPIO20/U0RXD" type="bidirectional"/>
+        <pin num="12" name="GPIO21/U0TXD" type="bidirectional"/>
+        <pin num="13" name="GPIO18/USB_D-" type="bidirectional"/>
+        <pin num="14" name="GPIO19/USB_D+" type="bidirectional"/>
+        <pin num="15" name="GPIO3/ADC1_CH3" type="bidirectional"/>
+        <pin num="16" name="GPIO2/ADC1_CH2" type="bidirectional"/>
+        <pin num="17" name="GPIO1/ADC1_CH1/XTAL_32K_N" type="bidirectional"/>
+        <pin num="18" name="GPIO0/ADC1_CH0/XTAL_32K_P" type="bidirectional"/>
+        <pin num="19" name="GND" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="PTS636_SM25F_SMTR_LFS" part="PTS636_SM25F_SMTR_LFS">
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">PTS636_SM25F_SMTR_LFS</field>
+        <field name="Footprint">PTS636_SM25F_SMTR_LFS:PTS636SM25FSMTRLFS</field>
+        <field name="DigiKey_Part_Number">CKN12329-2-ND</field>
+        <field name="Manufacturer_Name">C &amp; K COMPONENTS</field>
+        <field name="MF">C&amp;K</field>
+        <field name="Mouser_Price-Stock">https://www.mouser.co.uk/ProductDetail/CK/PTS636-SM25F-SMTR-LFS?qs=vLWxofP3U2wcBTQSwfMFOw%3D%3D</field>
+        <field name="Description">
+Tactile Switch SPST-NO Top Actuated Surface Mount
+</field>
+        <field name="Mouser_Part_Number">611-PTS636SM25FSMTRL</field>
+        <field name="Package">None</field>
+        <field name="Check_prices">https://www.snapeda.com/parts/PTS636%20SM25F%20SMTR%20LFS/C%2526K/view-part/?ref=eda</field>
+        <field name="Height">2.7mm</field>
+        <field name="MP">PTS636 SM25F SMTR LFS</field>
+        <field name="SnapEDA_Link">https://www.snapeda.com/parts/PTS636%20SM25F%20SMTR%20LFS/C%2526K/view-part/?ref=snap</field>
+        <field name="Arrow_Price-Stock">https://www.arrow.com/en/products/pts636-sm25f-smtr-lfs/ck</field>
+        <field name="Arrow_Part_Number">PTS636 SM25F SMTR LFS</field>
+        <field name="Purchase-URL">https://www.snapeda.com/api/url_track_click_mouser/?unipart_id=3703865&amp;manufacturer=C&amp;amp;K&amp;part_name=PTS636 SM25F SMTR LFS&amp;search_term=pts636 sl43 smtr lfs</field>
+        <field name="Manufacturer_Part_Number">PTS636 SM25F SMTR LFS</field>
+      </fields>
+      <pins>
+        <pin num="1" name="COM" type="bidirectional"/>
+        <pin num="2" name="NO" type="bidirectional"/>
+      </pins>
+    </libpart>
+    <libpart lib="Power_Protection" part="PRTR5V0U2X">
+      <description>Ultra low capacitance double rail-to-rail ESD protection diode, SOT-143</description>
+      <docs>https://assets.nexperia.com/documents/data-sheet/PRTR5V0U2X.pdf</docs>
+      <footprints>
+        <fp>SOT?143*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">PRTR5V0U2X</field>
+        <field name="Footprint">Package_TO_SOT_SMD:SOT-143</field>
+        <field name="Datasheet">https://assets.nexperia.com/documents/data-sheet/PRTR5V0U2X.pdf</field>
+      </fields>
+      <pins>
+        <pin num="1" name="GND" type="passive"/>
+        <pin num="2" name="I/O1" type="passive"/>
+        <pin num="3" name="I/O2" type="passive"/>
+        <pin num="4" name="VCC" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Regulator_Linear" part="AP2112K-3.3">
+      <description>600mA low dropout linear regulator, with enable pin, 3.8V-6V input voltage range, 3.3V fixed positive output, SOT-23-5</description>
+      <docs>https://www.diodes.com/assets/Datasheets/AP2112.pdf</docs>
+      <footprints>
+        <fp>SOT?23?5*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">AP2112K-3.3</field>
+        <field name="Footprint">Package_TO_SOT_SMD:SOT-23-5</field>
+        <field name="Datasheet">https://www.diodes.com/assets/Datasheets/AP2112.pdf</field>
+      </fields>
+      <pins>
+        <pin num="1" name="VIN" type="power_in"/>
+        <pin num="2" name="GND" type="power_in"/>
+        <pin num="3" name="EN" type="input"/>
+        <pin num="4" name="NC" type="no_connect"/>
+        <pin num="5" name="VOUT" type="power_out"/>
+      </pins>
+    </libpart>
+    <libpart lib="SHT40-AD1B-R3" part="SHT40-AD1B-R3">
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">SHT40-AD1B-R3</field>
+        <field name="Footprint">SHT40-AD1B-R3:SHT4X</field>
+        <field name="MF">Sensirion AG</field>
+        <field name="Description">
+Humidity, Temperature 0 ~ 100% RH I²C ±1.8% RH 4 s Surface Mount
+</field>
+        <field name="Package">DFN-4 Sensirion</field>
+        <field name="Price">None</field>
+        <field name="SnapEDA_Link">https://www.snapeda.com/parts/SHT40-AD1B-R3/NSI/view-part/?ref=snap</field>
+        <field name="MP">SHT40-AD1B-R3</field>
+        <field name="Purchase-URL">https://www.snapeda.com/api/url_track_click_mouser/?unipart_id=12304978&amp;manufacturer=Sensirion AG&amp;part_name=SHT40-AD1B-R3&amp;search_term=None</field>
+        <field name="Availability">In Stock</field>
+        <field name="Check_prices">https://www.snapeda.com/parts/SHT40-AD1B-R3/NSI/view-part/?ref=eda</field>
+      </fields>
+      <pins>
+        <pin num="1" name="SDA" type="bidirectional"/>
+        <pin num="2" name="SCL" type="input"/>
+        <pin num="3" name="VDD" type="power_in"/>
+        <pin num="4" name="VSS" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="Sensor_Temperature" part="DS18B20">
+      <description>Programmable Resolution 1-Wire Digital Thermometer TO-92</description>
+      <docs>http://datasheets.maximintegrated.com/en/ds/DS18B20.pdf</docs>
+      <footprints>
+        <fp>TO*92*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">DS18B20</field>
+        <field name="Footprint">Package_TO_SOT_THT:TO-92_Inline</field>
+        <field name="Datasheet">http://datasheets.maximintegrated.com/en/ds/DS18B20.pdf</field>
+      </fields>
+      <pins>
+        <pin num="1" name="GND" type="power_in"/>
+        <pin num="2" name="DQ" type="bidirectional"/>
+        <pin num="3" name="V_{DD}" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="USB4105-GF-A" part="USB4105-GF-A">
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">USB4105-GF-A</field>
+        <field name="Footprint">USB4105-GF-A:GCT_USB4105-GF-A</field>
+        <field name="MF">GCT</field>
+        <field name="MAXIMUM_PACKAGE_HEIGHT">3.31 mm</field>
+        <field name="Package">None</field>
+        <field name="Price">None</field>
+        <field name="Check_prices">https://www.snapeda.com/parts/USB4105-GF-A/Global+Connector+Technology/view-part/?ref=eda</field>
+        <field name="STANDARD">Manufacturer Recommendations</field>
+        <field name="PARTREV">A3</field>
+        <field name="SnapEDA_Link">https://www.snapeda.com/parts/USB4105-GF-A/Global+Connector+Technology/view-part/?ref=snap</field>
+        <field name="MP">USB4105-GF-A</field>
+        <field name="Purchase-URL">https://www.snapeda.com/api/url_track_click_mouser/?unipart_id=4423780&amp;manufacturer=GCT&amp;part_name=USB4105-GF-A&amp;search_term=usb4105</field>
+        <field name="Description">
+USB-C (USB TYPE-C) USB 2.0 Receptacle Connector 24 (16+8 Dummy) Position Surface Mount, Right Angle; Through Hole
+</field>
+        <field name="Availability">In Stock</field>
+        <field name="MANUFACTURER">GCT</field>
+      </fields>
+      <pins>
+        <pin num="A1_B12" name="GND" type="power_in"/>
+        <pin num="A4_B9" name="VBUS" type="power_in"/>
+        <pin num="A5" name="CC1" type="bidirectional"/>
+        <pin num="A6" name="DP1" type="bidirectional"/>
+        <pin num="A7" name="DN1" type="bidirectional"/>
+        <pin num="A8" name="SBU1" type="bidirectional"/>
+        <pin num="B1_A12" name="GND" type="power_in"/>
+        <pin num="B4_A9" name="VBUS" type="power_in"/>
+        <pin num="B5" name="CC2" type="bidirectional"/>
+        <pin num="B6" name="DP2" type="bidirectional"/>
+        <pin num="B7" name="DN2" type="bidirectional"/>
+        <pin num="B8" name="SBU2" type="bidirectional"/>
+        <pin num="S1" name="SHELL_GND" type="power_in"/>
+        <pin num="S2" name="SHELL_GND" type="power_in"/>
+        <pin num="S3" name="SHELL_GND" type="power_in"/>
+        <pin num="S4" name="SHELL_GND" type="power_in"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="Battery_Management">
+      <uri>/usr/share/kicad/symbols//Battery_Management.kicad_sym</uri>
+    </library>
+    <library logical="Connector">
+      <uri>/usr/share/kicad/symbols//Connector.kicad_sym</uri>
+    </library>
+    <library logical="Device">
+      <uri>/usr/share/kicad/symbols//Device.kicad_sym</uri>
+    </library>
+    <library logical="GF-123-0054">
+      <uri>/home/spoonie/Documents/PlatformIO/Projects/Arsnic-C3/PCB/Arsnic/FootPrints/GF-123-0054/GF-123-0054.kicad_sym</uri>
+    </library>
+    <library logical="LED">
+      <uri>/usr/share/kicad/symbols//LED.kicad_sym</uri>
+    </library>
+    <library logical="PCM_Espressif">
+      <uri>/home/spoonie/.local/share/kicad/7.0/3rdparty/symbols/com_github_espressif_kicad-libraries/Espressif.kicad_sym</uri>
+    </library>
+    <library logical="PTS636_SM25F_SMTR_LFS">
+      <uri>/home/spoonie/Documents/PlatformIO/Projects/Arsnic-C3/PCB/Arsnic/FootPrints/PTS636_SM25F_SMTR_LFS/PTS636_SM25F_SMTR_LFS.kicad_sym</uri>
+    </library>
+    <library logical="Power_Protection">
+      <uri>/usr/share/kicad/symbols//Power_Protection.kicad_sym</uri>
+    </library>
+    <library logical="Regulator_Linear">
+      <uri>/usr/share/kicad/symbols//Regulator_Linear.kicad_sym</uri>
+    </library>
+    <library logical="SHT40-AD1B-R3">
+      <uri>/home/spoonie/Documents/PlatformIO/Projects/Arsnic-C3/PCB/Arsnic/FootPrints/SHT40-AD1B-R3/SHT40-AD1B-R3.kicad_sym</uri>
+    </library>
+    <library logical="Sensor_Temperature">
+      <uri>/usr/share/kicad/symbols//Sensor_Temperature.kicad_sym</uri>
+    </library>
+    <library logical="USB4105-GF-A">
+      <uri>/home/spoonie/Documents/PlatformIO/Projects/Arsnic-C3/PCB/Arsnic/FootPrints/USB4105-GF-A/USB4105-GF-A.kicad_sym</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="+3.3V">
+      <node ref="C2" pin="1" pintype="passive"/>
+      <node ref="C6" pin="1" pintype="passive"/>
+      <node ref="C7" pin="1" pintype="passive"/>
+      <node ref="C8" pin="1" pintype="passive"/>
+      <node ref="C9" pin="1" pintype="passive"/>
+      <node ref="D3" pin="1" pinfunction="VDD" pintype="power_in"/>
+      <node ref="D4" pin="4" pinfunction="VCC" pintype="passive"/>
+      <node ref="J3" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="R11" pin="1" pintype="passive"/>
+      <node ref="R12" pin="1" pintype="passive"/>
+      <node ref="R8" pin="1" pintype="passive"/>
+      <node ref="R9" pin="1" pintype="passive"/>
+      <node ref="U2" pin="5" pinfunction="VOUT" pintype="power_out"/>
+      <node ref="U3" pin="3" pinfunction="VDD" pintype="power_in"/>
+      <node ref="U5" pin="1" pinfunction="3V3" pintype="power_in"/>
+    </net>
+    <net code="2" name="+5V">
+      <node ref="C3" pin="1" pintype="passive"/>
+      <node ref="D1" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="F1" pin="2" pintype="passive"/>
+      <node ref="Q1" pin="2" pinfunction="G" pintype="input"/>
+      <node ref="R1" pin="1" pintype="passive"/>
+      <node ref="R4" pin="1" pintype="passive"/>
+      <node ref="U1" pin="4" pinfunction="V_{DD}" pintype="power_in"/>
+    </net>
+    <net code="3" name="/EN_CHIP">
+      <node ref="C11" pin="1" pintype="passive"/>
+      <node ref="J9" pin="2" pinfunction="NO" pintype="bidirectional"/>
+      <node ref="R12" pin="2" pintype="passive"/>
+      <node ref="U5" pin="2" pinfunction="EN/CHIP_PU" pintype="input"/>
+    </net>
+    <net code="4" name="/IO2">
+      <node ref="R3" pin="1" pintype="passive"/>
+      <node ref="U5" pin="16" pinfunction="GPIO2/ADC1_CH2" pintype="bidirectional"/>
+    </net>
+    <net code="5" name="/IO3">
+      <node ref="R10" pin="2" pintype="passive"/>
+      <node ref="U5" pin="15" pinfunction="GPIO3/ADC1_CH3" pintype="bidirectional"/>
+    </net>
+    <net code="6" name="/IO8">
+      <node ref="R2" pin="1" pintype="passive"/>
+      <node ref="U5" pin="7" pinfunction="GPIO8" pintype="bidirectional"/>
+    </net>
+    <net code="7" name="/RESET">
+      <node ref="C10" pin="1" pintype="passive"/>
+      <node ref="J8" pin="2" pinfunction="NO" pintype="bidirectional"/>
+      <node ref="R11" pin="2" pintype="passive"/>
+      <node ref="U5" pin="8" pinfunction="GPIO9" pintype="bidirectional"/>
+    </net>
+    <net code="8" name="/RGB">
+      <node ref="D3" pin="4" pinfunction="DIN" pintype="input"/>
+      <node ref="U5" pin="10" pinfunction="GPIO10" pintype="bidirectional"/>
+    </net>
+    <net code="9" name="/SCA">
+      <node ref="R9" pin="2" pintype="passive"/>
+      <node ref="U3" pin="1" pinfunction="SDA" pintype="bidirectional"/>
+      <node ref="U5" pin="6" pinfunction="GPIO7" pintype="bidirectional"/>
+    </net>
+    <net code="10" name="/SCL">
+      <node ref="R8" pin="2" pintype="passive"/>
+      <node ref="U3" pin="2" pinfunction="SCL" pintype="input"/>
+      <node ref="U5" pin="5" pinfunction="GPIO6" pintype="bidirectional"/>
+    </net>
+    <net code="11" name="/USB_D+">
+      <node ref="D4" pin="2" pinfunction="I/O1" pintype="passive"/>
+      <node ref="J1" pin="A6" pinfunction="DP1" pintype="bidirectional"/>
+      <node ref="J1" pin="B6" pinfunction="DP2" pintype="bidirectional"/>
+      <node ref="U5" pin="14" pinfunction="GPIO19/USB_D+" pintype="bidirectional"/>
+    </net>
+    <net code="12" name="/USB_D-">
+      <node ref="D4" pin="3" pinfunction="I/O2" pintype="passive"/>
+      <node ref="J1" pin="A7" pinfunction="DN1" pintype="bidirectional"/>
+      <node ref="J1" pin="B7" pinfunction="DN2" pintype="bidirectional"/>
+      <node ref="U5" pin="13" pinfunction="GPIO18/USB_D-" pintype="bidirectional"/>
+    </net>
+    <net code="13" name="GND">
+      <node ref="BT1" pin="2" pinfunction="-" pintype="passive"/>
+      <node ref="C1" pin="2" pintype="passive"/>
+      <node ref="C10" pin="2" pintype="passive"/>
+      <node ref="C11" pin="2" pintype="passive"/>
+      <node ref="C2" pin="2" pintype="passive"/>
+      <node ref="C3" pin="2" pintype="passive"/>
+      <node ref="C4" pin="2" pintype="passive"/>
+      <node ref="C5" pin="2" pintype="passive"/>
+      <node ref="C6" pin="2" pintype="passive"/>
+      <node ref="C7" pin="2" pintype="passive"/>
+      <node ref="C8" pin="2" pintype="passive"/>
+      <node ref="C9" pin="2" pintype="passive"/>
+      <node ref="D3" pin="3" pinfunction="VSS" pintype="power_in"/>
+      <node ref="D4" pin="1" pinfunction="GND" pintype="passive"/>
+      <node ref="J1" pin="A1_B12" pinfunction="GND" pintype="power_in"/>
+      <node ref="J1" pin="B1_A12" pinfunction="GND" pintype="power_in"/>
+      <node ref="J1" pin="S1" pinfunction="SHELL_GND" pintype="power_in"/>
+      <node ref="J1" pin="S2" pinfunction="SHELL_GND" pintype="power_in"/>
+      <node ref="J1" pin="S3" pinfunction="SHELL_GND" pintype="power_in"/>
+      <node ref="J1" pin="S4" pinfunction="SHELL_GND" pintype="power_in"/>
+      <node ref="J7" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="J8" pin="1" pinfunction="COM" pintype="bidirectional"/>
+      <node ref="J9" pin="1" pinfunction="COM" pintype="bidirectional"/>
+      <node ref="R1" pin="2" pintype="passive"/>
+      <node ref="R2" pin="2" pintype="passive"/>
+      <node ref="R3" pin="2" pintype="passive"/>
+      <node ref="R5" pin="2" pintype="passive"/>
+      <node ref="R6" pin="1" pintype="passive"/>
+      <node ref="R7" pin="2" pintype="passive"/>
+      <node ref="U1" pin="2" pinfunction="V_{SS}" pintype="power_in"/>
+      <node ref="U2" pin="2" pinfunction="GND" pintype="power_in"/>
+      <node ref="U3" pin="4" pinfunction="VSS" pintype="power_in"/>
+      <node ref="U5" pin="19" pinfunction="GND" pintype="power_in"/>
+      <node ref="U5" pin="9" pinfunction="GND" pintype="passive"/>
+    </net>
+    <net code="14" name="Net-(BT1-+)">
+      <node ref="BT1" pin="1" pinfunction="+" pintype="passive"/>
+      <node ref="S1" pin="2" pintype="passive"/>
+    </net>
+    <net code="15" name="Net-(D2-A)">
+      <node ref="D2" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="R4" pin="2" pintype="passive"/>
+    </net>
+    <net code="16" name="Net-(D2-K)">
+      <node ref="D2" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="U1" pin="1" pinfunction="STAT" pintype="output"/>
+    </net>
+    <net code="17" name="Net-(F1-Pad1)">
+      <node ref="F1" pin="1" pintype="passive"/>
+      <node ref="J1" pin="A4_B9" pinfunction="VBUS" pintype="power_in"/>
+      <node ref="J1" pin="B4_A9" pinfunction="VBUS" pintype="power_in"/>
+    </net>
+    <net code="18" name="Net-(J1-CC1)">
+      <node ref="J1" pin="A5" pinfunction="CC1" pintype="bidirectional"/>
+      <node ref="R6" pin="2" pintype="passive"/>
+    </net>
+    <net code="19" name="Net-(J1-CC2)">
+      <node ref="J1" pin="B5" pinfunction="CC2" pintype="bidirectional"/>
+      <node ref="R7" pin="1" pintype="passive"/>
+    </net>
+    <net code="20" name="Net-(J5-Pin_1)">
+      <node ref="J5" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="R10" pin="1" pintype="passive"/>
+    </net>
+    <net code="21" name="Net-(Q1-D)">
+      <node ref="C4" pin="1" pintype="passive"/>
+      <node ref="Q1" pin="1" pinfunction="D" pintype="passive"/>
+      <node ref="S1" pin="1" pintype="passive"/>
+      <node ref="U1" pin="3" pinfunction="V_{BAT}" pintype="power_out"/>
+    </net>
+    <net code="22" name="Net-(U1-PROG)">
+      <node ref="R5" pin="1" pintype="passive"/>
+      <node ref="U1" pin="5" pinfunction="PROG" pintype="input"/>
+    </net>
+    <net code="23" name="VCC">
+      <node ref="C1" pin="1" pintype="passive"/>
+      <node ref="C5" pin="1" pintype="passive"/>
+      <node ref="D1" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="Q1" pin="3" pinfunction="S" pintype="passive"/>
+      <node ref="U2" pin="1" pinfunction="VIN" pintype="power_in"/>
+      <node ref="U2" pin="3" pinfunction="EN" pintype="input"/>
+    </net>
+    <net code="24" name="unconnected-(D3-DOUT-Pad2)">
+      <node ref="D3" pin="2" pinfunction="DOUT" pintype="output"/>
+    </net>
+    <net code="25" name="unconnected-(J1-SBU1-PadA8)">
+      <node ref="J1" pin="A8" pinfunction="SBU1" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="26" name="unconnected-(J1-SBU2-PadB8)">
+      <node ref="J1" pin="B8" pinfunction="SBU2" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="27" name="unconnected-(J2-Pin_1-Pad1)">
+      <node ref="J2" pin="1" pinfunction="Pin_1" pintype="passive"/>
+    </net>
+    <net code="28" name="unconnected-(J4-Pin_1-Pad1)">
+      <node ref="J4" pin="1" pinfunction="Pin_1" pintype="passive"/>
+    </net>
+    <net code="29" name="unconnected-(J6-Pin_1-Pad1)">
+      <node ref="J6" pin="1" pinfunction="Pin_1" pintype="passive"/>
+    </net>
+    <net code="30" name="unconnected-(U2-NC-Pad4)">
+      <node ref="U2" pin="4" pinfunction="NC" pintype="no_connect"/>
+    </net>
+    <net code="31" name="unconnected-(U4-DQ-Pad2)">
+      <node ref="U4" pin="2" pinfunction="DQ" pintype="bidirectional"/>
+    </net>
+    <net code="32" name="unconnected-(U4-GND-Pad1)">
+      <node ref="U4" pin="1" pinfunction="GND" pintype="power_in"/>
+    </net>
+    <net code="33" name="unconnected-(U4-V_{DD}-Pad3)">
+      <node ref="U4" pin="3" pinfunction="V_{DD}" pintype="power_in"/>
+    </net>
+    <net code="34" name="unconnected-(U5-GPIO0{slash}ADC1_CH0{slash}XTAL_32K_P-Pad18)">
+      <node ref="U5" pin="18" pinfunction="GPIO0/ADC1_CH0/XTAL_32K_P" pintype="bidirectional"/>
+    </net>
+    <net code="35" name="unconnected-(U5-GPIO1{slash}ADC1_CH1{slash}XTAL_32K_N-Pad17)">
+      <node ref="U5" pin="17" pinfunction="GPIO1/ADC1_CH1/XTAL_32K_N" pintype="bidirectional"/>
+    </net>
+    <net code="36" name="unconnected-(U5-GPIO4{slash}ADC1_CH4-Pad3)">
+      <node ref="U5" pin="3" pinfunction="GPIO4/ADC1_CH4" pintype="bidirectional"/>
+    </net>
+    <net code="37" name="unconnected-(U5-GPIO5{slash}ADC2_CH0-Pad4)">
+      <node ref="U5" pin="4" pinfunction="GPIO5/ADC2_CH0" pintype="bidirectional"/>
+    </net>
+    <net code="38" name="unconnected-(U5-GPIO20{slash}U0RXD-Pad11)">
+      <node ref="U5" pin="11" pinfunction="GPIO20/U0RXD" pintype="bidirectional"/>
+    </net>
+    <net code="39" name="unconnected-(U5-GPIO21{slash}U0TXD-Pad12)">
+      <node ref="U5" pin="12" pinfunction="GPIO21/U0TXD" pintype="bidirectional"/>
+    </net>
+  </nets>
+</export>

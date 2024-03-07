@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <script src="script.js"></script>
+    <title>Smart HVAC TEMP PROBE</title>
+    <link rel="icon" type="image/x-icon" href="/favicon.ico">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="icon" type="image/png" href="favicon.png">
+    <link rel="stylesheet" type="text/css" href="style.css">
+  </head>
+  <body>
+    <div class="topnav">
+      <h1>Smart HVAC TEMP PROBE</h1>
+    </div>
+    <div class="content">
+      <div class="card-grid">
+        <div class="card">
+          <p class="card-title">Battery Charge</p>
+          <label>Remaining: </label><label id="bsoc">%BSOC%</label><br>
+        </div>
+        <div class="card">
+          <p class="card-title">Vent Probe</p>
+          <label>Temperature: </label><label id="venttemp">%VENTTEMP%</label><br>
+        </div>
+        <div class="card">
+          <p class="card-title">Atmospheric Probe</p>
+          <label>Temperature: </label><label id="atmostemp">%ATMOSTEMP%</label><br>
+          <label>Humidity: </label><label id="atmoshum">%ATMOSHUM%</label><label>%</label><br>
+          <label>Pressure: </label><label id="atmopress">%ATMOPRESS%</label></label>
+        </div>
+        <div class="card">
+          <p class="card-title">Refrigerant Pressures</p>
+          <label>Tetrafluoroethane - R134A: </label><label id="r134a">%R134A%</label><br>
+          <label>Tetrafluoropropene - R1234yf: </label><label id="r1234yf">%R1234YF%</label><br>
+          <label>Carbon Dioxide - R744: </label><label id="r744">%R744%</label><br>
+          <label>Hychill - HC-30: </label><label id="hc30">%HC30%</label><br>
+        </div>
+        <div class="card">
+          <p class="card-title">Settings</p>
+          <label>Hostname/SSID: </label><input type="text" id="ssid" name="ssid" value="%SSID%" /><br>
+          <label>Wifi Password: </label><input type="text" id="password" name="password" value="%PWD%" /><br>
+          <label>Units set to </label>
+            <select name="units" id="units">
+              <option value="1">Imperial</option>
+              <option value="0">Metric</option>
+            </select>
+            <br>
+            <br>
+          <button type="button" onclick="wifiDetailsUpdate()">Update</button><br>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>

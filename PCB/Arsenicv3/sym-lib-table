@@ -1,0 +1,9 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "PTS526_SM15_SMTR2_LFS")(type "KiCad")(uri "${KIPRJMOD}/Footprints/PTS526_SM15_SMTR2_LFS/PTS526_SM15_SMTR2_LFS.kicad_sym")(options "")(descr ""))
+  (lib (name "USB4105-GF-A")(type "KiCad")(uri "${KIPRJMOD}/Footprints/USB4105-GF-A/USB4105-GF-A.kicad_sym")(options "")(descr ""))
+  (lib (name "JS102011SAQN")(type "KiCad")(uri "${KIPRJMOD}/Footprints/JS102011SAQN/JS102011SAQN.kicad_sym")(options "")(descr ""))
+  (lib (name "KXT 331 LHS")(type "KiCad")(uri "${KIPRJMOD}/Footprints/KXT 331 LHS/2023-12-30_04-22-41.kicad_sym")(options "")(descr ""))
+  (lib (name "MAX17048G")(type "KiCad")(uri "${KIPRJMOD}/Footprints/MAX17048G/2023-12-30_07-04-52.kicad_sym")(options "")(descr ""))
+  (lib (name "EAST1616RGBA8")(type "KiCad")(uri "${KIPRJMOD}/Footprints/EAST1616RGBA8/2023-12-30_07-54-59.kicad_sym")(options "")(descr ""))
+)

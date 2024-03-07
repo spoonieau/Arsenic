@@ -1,0 +1,1756 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="E">
+  <design>
+    <source>/home/spoonie/Documents/PlatformIO/Projects/Arsnic-C3/PCB/Arsenicv3/Arsenicv3.kicad_sch</source>
+    <date>Fri 12 Jan 2024 15:55:37</date>
+    <tool>Eeschema 7.0.10</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title>Arsenic V3</title>
+        <company/>
+        <rev/>
+        <date/>
+        <source>Arsenicv3.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="C1">
+      <value>10uF/25V(20%)</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder</footprint>
+      <datasheet>https://mm.digikey.com/Volume0/opasdata/d220001/medias/docus/658/CL10A106MA8NRNC_Spec.pdf</datasheet>
+      <fields>
+        <field name="DigiKeyPN">1276-1869-1-ND </field>
+        <field name="DigiKeyPrice">$0.46200</field>
+        <field name="ProductPage">https://www.digikey.com.au/en/products/detail/samsung-electro-mechanics/CL10A106MA8NRNC/3887527</field>
+        <field name="oemPN">CL10A106MA8NRNC</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="oemPN" value="CL10A106MA8NRNC"/>
+      <property name="DigiKeyPN" value="1276-1869-1-ND "/>
+      <property name="DigiKeyPrice" value="$0.46200"/>
+      <property name="ProductPage" value="https://www.digikey.com.au/en/products/detail/samsung-electro-mechanics/CL10A106MA8NRNC/3887527"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Arsenicv3.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor, small symbol"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8abb0ce7-5d2c-45bf-81fb-d4df4dcc34ea</tstamps>
+    </comp>
+    <comp ref="C2">
+      <value>0.1uF/10V (10%)</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder</footprint>
+      <datasheet>https://mm.digikey.com/Volume0/opasdata/d220001/medias/docus/609/CL05A104KP5NNNC_Spec.pdf</datasheet>
+      <fields>
+        <field name="DigiKeyPN">1276-1022-1-ND</field>
+        <field name="DigiKeyPrice">$0.17600</field>
+        <field name="ProductPage">https://www.digikey.com.au/en/products/detail/samsung-electro-mechanics/CL05A104KP5NNNC/3886680</field>
+        <field name="oemPN">CL05A104KP5NNNC</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="oemPN" value="CL05A104KP5NNNC"/>
+      <property name="DigiKeyPN" value="1276-1022-1-ND"/>
+      <property name="DigiKeyPrice" value="$0.17600"/>
+      <property name="ProductPage" value="https://www.digikey.com.au/en/products/detail/samsung-electro-mechanics/CL05A104KP5NNNC/3886680"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Arsenicv3.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor, small symbol"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7bf73d41-ed0e-478f-a200-f0f0d6988967</tstamps>
+    </comp>
+    <comp ref="C3">
+      <value>0.1uF/50V(10%)</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder</footprint>
+      <datasheet>https://search.murata.co.jp/Ceramy/image/img/A01X/G101/ENG/GRM155R61H104ME14-01.pdf</datasheet>
+      <fields>
+        <field name="DigiKeyPN">490-GRM155R61H104ME14DCT-ND</field>
+        <field name="DigiKeyPrice">$0.17600</field>
+        <field name="ProductPage">https://www.digikey.com.au/en/products/detail/murata-electronics/GRM155R71H104ME14D/4905181</field>
+        <field name="oemPN">GRM155R61H104ME14D</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="oemPN" value="GRM155R61H104ME14D"/>
+      <property name="DigiKeyPN" value="490-GRM155R61H104ME14DCT-ND"/>
+      <property name="DigiKeyPrice" value="$0.17600"/>
+      <property name="ProductPage" value="https://www.digikey.com.au/en/products/detail/murata-electronics/GRM155R71H104ME14D/4905181"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Arsenicv3.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor, small symbol"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>1025fffb-5ed9-4240-b9ee-c2f7de91c82f</tstamps>
+    </comp>
+    <comp ref="C4">
+      <value>1uF/16V(10%)</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder</footprint>
+      <datasheet>https://mm.digikey.com/Volume0/opasdata/d220001/medias/docus/609/CL05A105KO5NNNC_Spec_5-2-19.pdf</datasheet>
+      <fields>
+        <field name="DigiKeyPN">1276-1067-1-ND</field>
+        <field name="DigiKeyPrice">$0.17600</field>
+        <field name="ProductPage">https://www.digikey.com.au/en/products/detail/samsung-electro-mechanics/CL05A105KO5NNNC/3886725</field>
+        <field name="oemPN">CL05A105KO5NNNC</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="oemPN" value="CL05A105KO5NNNC"/>
+      <property name="DigiKeyPN" value="1276-1067-1-ND"/>
+      <property name="DigiKeyPrice" value="$0.17600"/>
+      <property name="ProductPage" value="https://www.digikey.com.au/en/products/detail/samsung-electro-mechanics/CL05A105KO5NNNC/3886725"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Arsenicv3.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor, small symbol"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3c8deb75-dfa4-47ef-af4a-7edd4074d635</tstamps>
+    </comp>
+    <comp ref="C5">
+      <value>1uF/16V(10%)</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder</footprint>
+      <datasheet>https://mm.digikey.com/Volume0/opasdata/d220001/medias/docus/609/CL05A105KO5NNNC_Spec_5-2-19.pdf</datasheet>
+      <fields>
+        <field name="DigiKeyPN">1276-1067-1-ND</field>
+        <field name="DigiKeyPrice">$0.17600</field>
+        <field name="ProductPage">https://www.digikey.com.au/en/products/detail/samsung-electro-mechanics/CL05A105KO5NNNC/3886725</field>
+        <field name="oemPN">CL05A105KO5NNNC</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="oemPN" value="CL05A105KO5NNNC"/>
+      <property name="DigiKeyPN" value="1276-1067-1-ND"/>
+      <property name="DigiKeyPrice" value="$0.17600"/>
+      <property name="ProductPage" value="https://www.digikey.com.au/en/products/detail/samsung-electro-mechanics/CL05A105KO5NNNC/3886725"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Arsenicv3.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor, small symbol"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0be361d8-e4e7-48c3-bd33-c9d0bcef0b9b</tstamps>
+    </comp>
+    <comp ref="C6">
+      <value>0.1uF/10V (10%)</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder</footprint>
+      <datasheet>https://mm.digikey.com/Volume0/opasdata/d220001/medias/docus/609/CL05A104KP5NNNC_Spec.pdf</datasheet>
+      <fields>
+        <field name="DigiKeyPN">1276-1022-1-ND</field>
+        <field name="DigiKeyPrice">$0.17600</field>
+        <field name="ProductPage">https://www.digikey.com.au/en/products/detail/samsung-electro-mechanics/CL05A104KP5NNNC/3886680</field>
+        <field name="oemPN">CL05A104KP5NNNC</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="oemPN" value="CL05A104KP5NNNC"/>
+      <property name="DigiKeyPN" value="1276-1022-1-ND"/>
+      <property name="DigiKeyPrice" value="$0.17600"/>
+      <property name="ProductPage" value="https://www.digikey.com.au/en/products/detail/samsung-electro-mechanics/CL05A104KP5NNNC/3886680"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Arsenicv3.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor, small symbol"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d2f5a818-bd6e-4511-bb75-77485e3a53cb</tstamps>
+    </comp>
+    <comp ref="C7">
+      <value>0.1uF/10V (10%)</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder</footprint>
+      <datasheet>https://mm.digikey.com/Volume0/opasdata/d220001/medias/docus/609/CL05A104KP5NNNC_Spec.pdf</datasheet>
+      <fields>
+        <field name="DigiKeyPN">1276-1022-1-ND</field>
+        <field name="DigiKeyPrice">$0.17600</field>
+        <field name="ProductPage">https://www.digikey.com.au/en/products/detail/samsung-electro-mechanics/CL05A104KP5NNNC/3886680</field>
+        <field name="oemPN">CL05A104KP5NNNC</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="oemPN" value="CL05A104KP5NNNC"/>
+      <property name="DigiKeyPN" value="1276-1022-1-ND"/>
+      <property name="DigiKeyPrice" value="$0.17600"/>
+      <property name="ProductPage" value="https://www.digikey.com.au/en/products/detail/samsung-electro-mechanics/CL05A104KP5NNNC/3886680"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Arsenicv3.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor, small symbol"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ab270106-313c-4a52-88bc-4ab2edc98232</tstamps>
+    </comp>
+    <comp ref="C8">
+      <value>0.1uF/10V (10%)</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder</footprint>
+      <datasheet>https://mm.digikey.com/Volume0/opasdata/d220001/medias/docus/609/CL05A104KP5NNNC_Spec.pdf</datasheet>
+      <fields>
+        <field name="DigiKeyPN">1276-1022-1-ND</field>
+        <field name="DigiKeyPrice">$0.17600</field>
+        <field name="ProductPage">https://www.digikey.com.au/en/products/detail/samsung-electro-mechanics/CL05A104KP5NNNC/3886680</field>
+        <field name="oemPN">CL05A104KP5NNNC</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="oemPN" value="CL05A104KP5NNNC"/>
+      <property name="DigiKeyPN" value="1276-1022-1-ND"/>
+      <property name="DigiKeyPrice" value="$0.17600"/>
+      <property name="ProductPage" value="https://www.digikey.com.au/en/products/detail/samsung-electro-mechanics/CL05A104KP5NNNC/3886680"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Arsenicv3.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor, small symbol"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>38ea87a0-a9c4-4889-9eb1-068006c2c2c5</tstamps>
+    </comp>
+    <comp ref="C9">
+      <value>4.7uF/16VX5R</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder</footprint>
+      <datasheet>https://datasheets.kyocera-avx.com/cx5r-KGM.pdf</datasheet>
+      <fields>
+        <field name="DigiKeyPN">478-CM05X5R475M16AHCT-ND</field>
+        <field name="DigiKeyPrice">$0.39600</field>
+        <field name="ProductPage">https://www.digikey.com.au/en/products/detail/kyocera-avx/KGM05CR51C475MH/17866303</field>
+        <field name="oemPN">KGM05CR51C475MH</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="oemPN" value="KGM05CR51C475MH"/>
+      <property name="DigiKeyPN" value="478-CM05X5R475M16AHCT-ND"/>
+      <property name="DigiKeyPrice" value="$0.39600"/>
+      <property name="ProductPage" value="https://www.digikey.com.au/en/products/detail/kyocera-avx/KGM05CR51C475MH/17866303"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Arsenicv3.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor, small symbol"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>bcfcc6f4-0fbd-4862-9fd9-7e6ecdc12ed1</tstamps>
+    </comp>
+    <comp ref="C10">
+      <value>4.7uF/16VX5R</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder</footprint>
+      <datasheet>https://datasheets.kyocera-avx.com/cx5r-KGM.pdf</datasheet>
+      <fields>
+        <field name="DigiKeyPN">478-CM05X5R475M16AHCT-ND</field>
+        <field name="DigiKeyPrice">$0.39600</field>
+        <field name="ProductPage">https://www.digikey.com.au/en/products/detail/kyocera-avx/KGM05CR51C475MH/17866303</field>
+        <field name="oemPN">KGM05CR51C475MH</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="oemPN" value="KGM05CR51C475MH"/>
+      <property name="DigiKeyPN" value="478-CM05X5R475M16AHCT-ND"/>
+      <property name="DigiKeyPrice" value="$0.39600"/>
+      <property name="ProductPage" value="https://www.digikey.com.au/en/products/detail/kyocera-avx/KGM05CR51C475MH/17866303"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Arsenicv3.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor, small symbol"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5123a1d0-dc28-4760-b443-ffb46942ffbd</tstamps>
+    </comp>
+    <comp ref="C11">
+      <value>4.7uF/16VX5R</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder</footprint>
+      <datasheet>https://datasheets.kyocera-avx.com/cx5r-KGM.pdf</datasheet>
+      <fields>
+        <field name="DigiKeyPN">478-CM05X5R475M16AHCT-ND</field>
+        <field name="DigiKeyPrice">$0.39600</field>
+        <field name="ProductPage">https://www.digikey.com.au/en/products/detail/kyocera-avx/KGM05CR51C475MH/17866303</field>
+        <field name="oemPN">KGM05CR51C475MH</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="oemPN" value="KGM05CR51C475MH"/>
+      <property name="DigiKeyPN" value="478-CM05X5R475M16AHCT-ND"/>
+      <property name="DigiKeyPrice" value="$0.39600"/>
+      <property name="ProductPage" value="https://www.digikey.com.au/en/products/detail/kyocera-avx/KGM05CR51C475MH/17866303"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Arsenicv3.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor, small symbol"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>55f93b0f-5c57-4050-9435-ca9d8d8498e5</tstamps>
+    </comp>
+    <comp ref="C12">
+      <value>0.1uF/10V (10%)</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder</footprint>
+      <datasheet>https://mm.digikey.com/Volume0/opasdata/d220001/medias/docus/609/CL05A104KP5NNNC_Spec.pdf</datasheet>
+      <fields>
+        <field name="DigiKeyPN">1276-1022-1-ND</field>
+        <field name="DigiKeyPrice">$0.17600</field>
+        <field name="ProductPage">https://www.digikey.com.au/en/products/detail/samsung-electro-mechanics/CL05A104KP5NNNC/3886680</field>
+        <field name="oemPN">CL05A104KP5NNNC</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="oemPN" value="CL05A104KP5NNNC"/>
+      <property name="DigiKeyPN" value="1276-1022-1-ND"/>
+      <property name="DigiKeyPrice" value="$0.17600"/>
+      <property name="ProductPage" value="https://www.digikey.com.au/en/products/detail/samsung-electro-mechanics/CL05A104KP5NNNC/3886680"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Arsenicv3.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor, small symbol"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c36f1137-171f-425d-bbb9-141e531f66ac</tstamps>
+    </comp>
+    <comp ref="C13">
+      <value>0.1uF/10V (10%)</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder</footprint>
+      <datasheet>https://mm.digikey.com/Volume0/opasdata/d220001/medias/docus/609/CL05A104KP5NNNC_Spec.pdf</datasheet>
+      <fields>
+        <field name="DigiKeyPN">1276-1022-1-ND</field>
+        <field name="DigiKeyPrice">$0.17600</field>
+        <field name="ProductPage">https://www.digikey.com.au/en/products/detail/samsung-electro-mechanics/CL05A104KP5NNNC/3886680</field>
+        <field name="oemPN">CL05A104KP5NNNC</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="oemPN" value="CL05A104KP5NNNC"/>
+      <property name="DigiKeyPN" value="1276-1022-1-ND"/>
+      <property name="DigiKeyPrice" value="$0.17600"/>
+      <property name="ProductPage" value="https://www.digikey.com.au/en/products/detail/samsung-electro-mechanics/CL05A104KP5NNNC/3886680"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Arsenicv3.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor, small symbol"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>dcf6ec9a-3acb-4f62-a1a6-f8272a2ad89a</tstamps>
+    </comp>
+    <comp ref="D1">
+      <value>WS2812B</value>
+      <footprint>LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm</footprint>
+      <datasheet>https://cdn.sparkfun.com/datasheets/BreakoutBoards/WS2812B.pdf</datasheet>
+      <fields>
+        <field name="DigiKeyPN">1568-COM-16347CT-ND</field>
+        <field name="DigiKeyPrice">$1.06700</field>
+        <field name="ProductPage">https://www.digikey.com.au/en/products/detail/sparkfun-electronics/COM-16347/11630204</field>
+        <field name="oemPN">COM-16347</field>
+      </fields>
+      <libsource lib="LED" part="WS2812B" description="RGB LED with integrated controller"/>
+      <property name="oemPN" value="COM-16347"/>
+      <property name="DigiKeyPN" value="1568-COM-16347CT-ND"/>
+      <property name="DigiKeyPrice" value="$1.06700"/>
+      <property name="ProductPage" value="https://www.digikey.com.au/en/products/detail/sparkfun-electronics/COM-16347/11630204"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Arsenicv3.kicad_sch"/>
+      <property name="ki_description" value="RGB LED with integrated controller"/>
+      <property name="ki_keywords" value="RGB LED NeoPixel addressable"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e0b2903b-0d06-4f8c-bfe6-45cc70bfa05b</tstamps>
+    </comp>
+    <comp ref="D2">
+      <value>PRTR5V0U2X</value>
+      <footprint>Package_TO_SOT_SMD:SOT-143</footprint>
+      <datasheet>https://assets.nexperia.com/documents/data-sheet/PRTR5V0U2X.pdf</datasheet>
+      <fields>
+        <field name="DigiKeyPN">1727-3884-1-ND</field>
+        <field name="DigiKeyPrice">$0.89100</field>
+        <field name="ProductPage">https://www.digikey.com.au/en/products/detail/nexperia-usa-inc/PRTR5V0U2X-215/1163690</field>
+        <field name="oemPN">PRTR5V0U2X,215</field>
+      </fields>
+      <libsource lib="Power_Protection" part="PRTR5V0U2X" description="Ultra low capacitance double rail-to-rail ESD protection diode, SOT-143"/>
+      <property name="oemPN" value="PRTR5V0U2X,215"/>
+      <property name="DigiKeyPN" value="1727-3884-1-ND"/>
+      <property name="DigiKeyPrice" value="$0.89100"/>
+      <property name="ProductPage" value="https://www.digikey.com.au/en/products/detail/nexperia-usa-inc/PRTR5V0U2X-215/1163690"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Arsenicv3.kicad_sch"/>
+      <property name="ki_description" value="Ultra low capacitance double rail-to-rail ESD protection diode, SOT-143"/>
+      <property name="ki_keywords" value="ESD protection diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c91e9073-188f-4f76-9fb4-a8271a1599f6</tstamps>
+    </comp>
+    <comp ref="F1">
+      <value>Polyfuse_Small</value>
+      <footprint>Fuse:Fuse_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <datasheet>https://www.yageo.com/upload/media/product/productsearch/datasheet/cpc/pptc/SMD0603_1.pdf</datasheet>
+      <fields>
+        <field name="DigiKeyPN">13-SMD0805B075TFCT-ND</field>
+        <field name="DigiKeyPrice">$0.20900</field>
+        <field name="ProductPage">https://www.digikey.com.au/en/products/detail/yageo/SMD0805B075TF/15212932</field>
+        <field name="oemPN">SMD0805B075TF</field>
+      </fields>
+      <libsource lib="Device" part="Polyfuse_Small" description="Resettable fuse, polymeric positive temperature coefficient, small symbol"/>
+      <property name="oemPN" value="SMD0805B075TF"/>
+      <property name="DigiKeyPN" value="13-SMD0805B075TFCT-ND"/>
+      <property name="DigiKeyPrice" value="$0.20900"/>
+      <property name="ProductPage" value="https://www.digikey.com.au/en/products/detail/yageo/SMD0805B075TF/15212932"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Arsenicv3.kicad_sch"/>
+      <property name="ki_description" value="Resettable fuse, polymeric positive temperature coefficient, small symbol"/>
+      <property name="ki_keywords" value="resettable fuse PTC PPTC polyfuse polyswitch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2f3d7bee-7e25-4b20-bc6f-fbb688bc321a</tstamps>
+    </comp>
+    <comp ref="J1">
+      <value>Conn_01x02_Pin</value>
+      <footprint>Connector_PinHeader_2.00mm:PinHeader_1x02_P2.00mm_Vertical</footprint>
+      <libsource lib="Connector" part="Conn_01x02_Pin" description="Generic connector, single row, 01x02, script generated"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Arsenicv3.kicad_sch"/>
+      <property name="ki_description" value="Generic connector, single row, 01x02, script generated"/>
+      <property name="ki_keywords" value="connector"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7a66d9b8-4308-4763-b130-371c92d65e63</tstamps>
+    </comp>
+    <comp ref="J4">
+      <value>USB4105-GF-A</value>
+      <footprint>USB4105-GF-A:GCT_USB4105-GF-A</footprint>
+      <datasheet>https://mm.digikey.com/Volume0/opasdata/d220001/medias/docus/5492/USB4105.pdf</datasheet>
+      <fields>
+        <field name="DigiKeyPN">2073-USB4105-GF-ACT-ND</field>
+        <field name="DigiKeyPrice">$1.44100</field>
+        <field name="ProductPage">https://www.digikey.com.au/en/products/detail/gct/USB4105-GF-A/11198441</field>
+        <field name="oemPN">USB4105-GF-A</field>
+      </fields>
+      <libsource lib="USB4105-GF-A" part="USB4105-GF-A" description=""/>
+      <property name="oemPN" value="USB4105-GF-A"/>
+      <property name="DigiKeyPN" value="2073-USB4105-GF-ACT-ND"/>
+      <property name="DigiKeyPrice" value="$1.44100"/>
+      <property name="ProductPage" value="https://www.digikey.com.au/en/products/detail/gct/USB4105-GF-A/11198441"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Arsenicv3.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c9b2ed39-9d46-4b87-9334-109148561d10</tstamps>
+    </comp>
+    <comp ref="R1">
+      <value>4.7k</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder</footprint>
+      <datasheet>https://www.yageo.com/upload/media/product/productsearch/datasheet/rchip/PYu-RC_Group_51_RoHS_L_12.pdf</datasheet>
+      <fields>
+        <field name="DigiKeyPN">311-4.7KLRCT-ND</field>
+        <field name="DigiKeyPrice">$0.17600</field>
+        <field name="ProductPage">https://www.digikey.com.au/en/products/detail/yageo/RC0402FR-074K7L/2827563</field>
+        <field name="oemPN">RC0402FR-074K7L</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="oemPN" value="RC0402FR-074K7L"/>
+      <property name="DigiKeyPN" value="311-4.7KLRCT-ND"/>
+      <property name="DigiKeyPrice" value="$0.17600"/>
+      <property name="ProductPage" value="https://www.digikey.com.au/en/products/detail/yageo/RC0402FR-074K7L/2827563"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Arsenicv3.kicad_sch"/>
+      <property name="ki_description" value="Resistor, small symbol"/>
+      <property name="ki_keywords" value="R resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>380e65a8-4a12-42da-b34f-92e11bec3bc2</tstamps>
+    </comp>
+    <comp ref="R2">
+      <value>4.7k</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder</footprint>
+      <datasheet>https://www.yageo.com/upload/media/product/productsearch/datasheet/rchip/PYu-RC_Group_51_RoHS_L_12.pdf</datasheet>
+      <fields>
+        <field name="DigiKeyPN">311-4.7KLRCT-ND</field>
+        <field name="DigiKeyPrice">$0.17600</field>
+        <field name="ProductPage">https://www.digikey.com.au/en/products/detail/yageo/RC0402FR-074K7L/2827563</field>
+        <field name="oemPN">RC0402FR-074K7L</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="oemPN" value="RC0402FR-074K7L"/>
+      <property name="DigiKeyPN" value="311-4.7KLRCT-ND"/>
+      <property name="DigiKeyPrice" value="$0.17600"/>
+      <property name="ProductPage" value="https://www.digikey.com.au/en/products/detail/yageo/RC0402FR-074K7L/2827563"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Arsenicv3.kicad_sch"/>
+      <property name="ki_description" value="Resistor, small symbol"/>
+      <property name="ki_keywords" value="R resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>140c5ba3-a362-4897-8f59-1accaaf0f88e</tstamps>
+    </comp>
+    <comp ref="R3">
+      <value>4.7k</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder</footprint>
+      <datasheet>https://www.yageo.com/upload/media/product/productsearch/datasheet/rchip/PYu-RC_Group_51_RoHS_L_12.pdf</datasheet>
+      <fields>
+        <field name="DigiKeyPN">311-4.7KLRCT-ND</field>
+        <field name="DigiKeyPrice">$0.17600</field>
+        <field name="ProductPage">https://www.digikey.com.au/en/products/detail/yageo/RC0402FR-074K7L/2827563</field>
+        <field name="oemPN">RC0402FR-074K7L</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="oemPN" value="RC0402FR-074K7L"/>
+      <property name="DigiKeyPN" value="311-4.7KLRCT-ND"/>
+      <property name="DigiKeyPrice" value="$0.17600"/>
+      <property name="ProductPage" value="https://www.digikey.com.au/en/products/detail/yageo/RC0402FR-074K7L/2827563"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Arsenicv3.kicad_sch"/>
+      <property name="ki_description" value="Resistor, small symbol"/>
+      <property name="ki_keywords" value="R resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5ae66abe-f226-4b08-bde7-3fb50be3a466</tstamps>
+    </comp>
+    <comp ref="R4">
+      <value>10K(1%)</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder</footprint>
+      <datasheet>https://www.yageo.com/upload/media/product/productsearch/datasheet/rchip/PYu-RC_Group_51_RoHS_L_12.pdf</datasheet>
+      <fields>
+        <field name="DigiKeyPN">311-10.0KLRCT-ND</field>
+        <field name="DigiKeyPrice">$0.17600</field>
+        <field name="ProductPage">https://www.digikey.com.au/en/products/detail/yageo/RC0402FR-0710KL/726523</field>
+        <field name="oemPN">RC0402FR-0710KL</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="oemPN" value="RC0402FR-0710KL"/>
+      <property name="DigiKeyPN" value="311-10.0KLRCT-ND"/>
+      <property name="DigiKeyPrice" value="$0.17600"/>
+      <property name="ProductPage" value="https://www.digikey.com.au/en/products/detail/yageo/RC0402FR-0710KL/726523"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Arsenicv3.kicad_sch"/>
+      <property name="ki_description" value="Resistor, small symbol"/>
+      <property name="ki_keywords" value="R resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>169f1e91-117f-45d1-8669-2113cbee49a7</tstamps>
+    </comp>
+    <comp ref="R5">
+      <value>5.1k</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder</footprint>
+      <datasheet>https://www.yageo.com/upload/media/product/productsearch/datasheet/rchip/PYu-RC_Group_51_RoHS_L_12.pdf</datasheet>
+      <fields>
+        <field name="DigiKeyPN">13-RC0402FR-135K1LCT-ND</field>
+        <field name="DigiKeyPrice">$0.17600</field>
+        <field name="ProductPage">https://www.digikey.com.au/en/products/detail/yageo/RC0402FR-135K1L/14286364</field>
+        <field name="oemPN">RC0402FR-135K1L</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="oemPN" value="RC0402FR-135K1L"/>
+      <property name="DigiKeyPN" value="13-RC0402FR-135K1LCT-ND"/>
+      <property name="DigiKeyPrice" value="$0.17600"/>
+      <property name="ProductPage" value="https://www.digikey.com.au/en/products/detail/yageo/RC0402FR-135K1L/14286364"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Arsenicv3.kicad_sch"/>
+      <property name="ki_description" value="Resistor, small symbol"/>
+      <property name="ki_keywords" value="R resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2fa951a6-ca58-4703-a4e5-0645fd63a4bc</tstamps>
+    </comp>
+    <comp ref="R6">
+      <value>5.1k</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder</footprint>
+      <datasheet>https://www.yageo.com/upload/media/product/productsearch/datasheet/rchip/PYu-RC_Group_51_RoHS_L_12.pdf</datasheet>
+      <fields>
+        <field name="DigiKeyPN">13-RC0402FR-135K1LCT-ND</field>
+        <field name="DigiKeyPrice">$0.17600</field>
+        <field name="ProductPage">https://www.digikey.com.au/en/products/detail/yageo/RC0402FR-135K1L/14286364</field>
+        <field name="oemPN">RC0402FR-135K1L</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="oemPN" value="RC0402FR-135K1L"/>
+      <property name="DigiKeyPN" value="13-RC0402FR-135K1LCT-ND"/>
+      <property name="DigiKeyPrice" value="$0.17600"/>
+      <property name="ProductPage" value="https://www.digikey.com.au/en/products/detail/yageo/RC0402FR-135K1L/14286364"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Arsenicv3.kicad_sch"/>
+      <property name="ki_description" value="Resistor, small symbol"/>
+      <property name="ki_keywords" value="R resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9ba75de3-c5d5-48ee-9928-0cef702954e5</tstamps>
+    </comp>
+    <comp ref="R7">
+      <value>10K(1%)</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder</footprint>
+      <datasheet>https://www.yageo.com/upload/media/product/productsearch/datasheet/rchip/PYu-RC_Group_51_RoHS_L_12.pdf</datasheet>
+      <fields>
+        <field name="DigiKeyPN">311-10.0KLRCT-ND</field>
+        <field name="DigiKeyPrice">$0.17600</field>
+        <field name="ProductPage">https://www.digikey.com.au/en/products/detail/yageo/RC0402FR-0710KL/726523</field>
+        <field name="oemPN">RC0402FR-0710KL</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="oemPN" value="RC0402FR-0710KL"/>
+      <property name="DigiKeyPN" value="311-10.0KLRCT-ND"/>
+      <property name="DigiKeyPrice" value="$0.17600"/>
+      <property name="ProductPage" value="https://www.digikey.com.au/en/products/detail/yageo/RC0402FR-0710KL/726523"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Arsenicv3.kicad_sch"/>
+      <property name="ki_description" value="Resistor, small symbol"/>
+      <property name="ki_keywords" value="R resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>641a8cb1-4735-4311-ad5b-b814dc3a51d7</tstamps>
+    </comp>
+    <comp ref="R8">
+      <value>10K(1%)</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder</footprint>
+      <datasheet>https://www.yageo.com/upload/media/product/productsearch/datasheet/rchip/PYu-RC_Group_51_RoHS_L_12.pdf</datasheet>
+      <fields>
+        <field name="DigiKeyPN">311-10.0KLRCT-ND</field>
+        <field name="DigiKeyPrice">$0.17600</field>
+        <field name="ProductPage">https://www.digikey.com.au/en/products/detail/yageo/RC0402FR-0710KL/726523</field>
+        <field name="oemPN">RC0402FR-0710KL</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="oemPN" value="RC0402FR-0710KL"/>
+      <property name="DigiKeyPN" value="311-10.0KLRCT-ND"/>
+      <property name="DigiKeyPrice" value="$0.17600"/>
+      <property name="ProductPage" value="https://www.digikey.com.au/en/products/detail/yageo/RC0402FR-0710KL/726523"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Arsenicv3.kicad_sch"/>
+      <property name="ki_description" value="Resistor, small symbol"/>
+      <property name="ki_keywords" value="R resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4e79dfa7-d6f9-4340-b285-3c6179a1f68b</tstamps>
+    </comp>
+    <comp ref="R9">
+      <value>330K</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder</footprint>
+      <datasheet>https://www.passivecomponent.com/wp-content/uploads/chipR/ASC_WR.pdf</datasheet>
+      <fields>
+        <field name="DigiKeyPN">1292-WR04X3303FTLCT-ND</field>
+        <field name="DigiKeyPrice">$0.17600</field>
+        <field name="ProductPage">https://www.digikey.com.au/en/products/detail/walsin-technology-corporation/WR04X3303FTL/13240644</field>
+        <field name="oemPN">WR04X3303FTL</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="oemPN" value="WR04X3303FTL"/>
+      <property name="DigiKeyPN" value="1292-WR04X3303FTLCT-ND"/>
+      <property name="DigiKeyPrice" value="$0.17600"/>
+      <property name="ProductPage" value="https://www.digikey.com.au/en/products/detail/walsin-technology-corporation/WR04X3303FTL/13240644"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Arsenicv3.kicad_sch"/>
+      <property name="ki_description" value="Resistor, small symbol"/>
+      <property name="ki_keywords" value="R resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>cc77cb1d-3fe6-478b-acec-343e2cd32a58</tstamps>
+    </comp>
+    <comp ref="R10">
+      <value>110K</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder</footprint>
+      <datasheet>https://www.bourns.com/docs/product-datasheets/cr.pdf?sfvrsn=574d41f6_14</datasheet>
+      <fields>
+        <field name="DigiKeyPN">CR0402-FX-1103GLFCT-ND</field>
+        <field name="DigiKeyPrice">$0.17600</field>
+        <field name="ProductPage">https://www.digikey.com.au/en/products/detail/bourns-inc/CR0402-FX-1103GLF/3783108</field>
+        <field name="oemPN">CR0402-FX-1103GLF</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="oemPN" value="CR0402-FX-1103GLF"/>
+      <property name="DigiKeyPN" value="CR0402-FX-1103GLFCT-ND"/>
+      <property name="DigiKeyPrice" value="$0.17600"/>
+      <property name="ProductPage" value="https://www.digikey.com.au/en/products/detail/bourns-inc/CR0402-FX-1103GLF/3783108"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Arsenicv3.kicad_sch"/>
+      <property name="ki_description" value="Resistor, small symbol"/>
+      <property name="ki_keywords" value="R resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>fe941ede-ba97-4b32-b96d-ec89df31d7b7</tstamps>
+    </comp>
+    <comp ref="R11">
+      <value>10K(1%)</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder</footprint>
+      <datasheet>https://www.yageo.com/upload/media/product/productsearch/datasheet/rchip/PYu-RC_Group_51_RoHS_L_12.pdf</datasheet>
+      <fields>
+        <field name="DigiKeyPN">311-10.0KLRCT-ND</field>
+        <field name="DigiKeyPrice">$0.17600</field>
+        <field name="ProductPage">https://www.digikey.com.au/en/products/detail/yageo/RC0402FR-0710KL/726523</field>
+        <field name="oemPN">RC0402FR-0710KL</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="oemPN" value="RC0402FR-0710KL"/>
+      <property name="DigiKeyPN" value="311-10.0KLRCT-ND"/>
+      <property name="DigiKeyPrice" value="$0.17600"/>
+      <property name="ProductPage" value="https://www.digikey.com.au/en/products/detail/yageo/RC0402FR-0710KL/726523"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Arsenicv3.kicad_sch"/>
+      <property name="ki_description" value="Resistor, small symbol"/>
+      <property name="ki_keywords" value="R resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a509318e-447c-4b62-ab4d-d53280b8edb4</tstamps>
+    </comp>
+    <comp ref="R12">
+      <value>10K(1%)</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder</footprint>
+      <datasheet>https://www.yageo.com/upload/media/product/productsearch/datasheet/rchip/PYu-RC_Group_51_RoHS_L_12.pdf</datasheet>
+      <fields>
+        <field name="DigiKeyPN">311-10.0KLRCT-ND</field>
+        <field name="DigiKeyPrice">$0.17600</field>
+        <field name="ProductPage">https://www.digikey.com.au/en/products/detail/yageo/RC0402FR-0710KL/726523</field>
+        <field name="oemPN">RC0402FR-0710KL</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="oemPN" value="RC0402FR-0710KL"/>
+      <property name="DigiKeyPN" value="311-10.0KLRCT-ND"/>
+      <property name="DigiKeyPrice" value="$0.17600"/>
+      <property name="ProductPage" value="https://www.digikey.com.au/en/products/detail/yageo/RC0402FR-0710KL/726523"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Arsenicv3.kicad_sch"/>
+      <property name="ki_description" value="Resistor, small symbol"/>
+      <property name="ki_keywords" value="R resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6135ab6c-a98e-4bf2-adb3-b58c751c3298</tstamps>
+    </comp>
+    <comp ref="R13">
+      <value>100k</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder</footprint>
+      <datasheet>https://www.yageo.com/upload/media/product/productsearch/datasheet/rchip/PYu-RC_Group_51_RoHS_L_12.pdf</datasheet>
+      <fields>
+        <field name="DigiKeyPN">311-100KLRCT-ND</field>
+        <field name="DigiKeyPrice">$0.17600</field>
+        <field name="ProductPage">https://www.digikey.com.au/en/products/detail/yageo/RC0402FR-07100KL/726526</field>
+        <field name="oemPN">RC0402FR-07100KL</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="oemPN" value="RC0402FR-07100KL"/>
+      <property name="DigiKeyPN" value="311-100KLRCT-ND"/>
+      <property name="DigiKeyPrice" value="$0.17600"/>
+      <property name="ProductPage" value="https://www.digikey.com.au/en/products/detail/yageo/RC0402FR-07100KL/726526"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Arsenicv3.kicad_sch"/>
+      <property name="ki_description" value="Resistor, small symbol"/>
+      <property name="ki_keywords" value="R resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f40f5ba1-cf45-40d0-bef8-7af8adcf1195</tstamps>
+    </comp>
+    <comp ref="R14">
+      <value>1k</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder</footprint>
+      <datasheet>https://www.yageo.com/upload/media/product/app/datasheet/rchip/pyu-rc_group_51_rohs_l.pdf</datasheet>
+      <fields>
+        <field name="DigiKeyPN">311-1.00KLRCT-ND</field>
+        <field name="DigiKeyPrice">$0.17600</field>
+        <field name="ProductPage">https://www.digikey.com.au/en/products/detail/yageo/RC0402FR-071KL/726513</field>
+        <field name="oemPN">RC0402FR-071KL</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="oemPN" value="RC0402FR-071KL"/>
+      <property name="DigiKeyPN" value="311-1.00KLRCT-ND"/>
+      <property name="DigiKeyPrice" value="$0.17600"/>
+      <property name="ProductPage" value="https://www.digikey.com.au/en/products/detail/yageo/RC0402FR-071KL/726513"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Arsenicv3.kicad_sch"/>
+      <property name="ki_description" value="Resistor, small symbol"/>
+      <property name="ki_keywords" value="R resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9152f650-788c-4f6f-81ce-4f038be5768a</tstamps>
+    </comp>
+    <comp ref="R15">
+      <value>10K(1%)</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder</footprint>
+      <datasheet>https://www.yageo.com/upload/media/product/productsearch/datasheet/rchip/PYu-RC_Group_51_RoHS_L_12.pdf</datasheet>
+      <fields>
+        <field name="DigiKeyPN">311-10.0KLRCT-ND</field>
+        <field name="DigiKeyPrice">$0.17600</field>
+        <field name="ProductPage">https://www.digikey.com.au/en/products/detail/yageo/RC0402FR-0710KL/726523</field>
+        <field name="oemPN">RC0402FR-0710KL</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="oemPN" value="RC0402FR-0710KL"/>
+      <property name="DigiKeyPN" value="311-10.0KLRCT-ND"/>
+      <property name="DigiKeyPrice" value="$0.17600"/>
+      <property name="ProductPage" value="https://www.digikey.com.au/en/products/detail/yageo/RC0402FR-0710KL/726523"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Arsenicv3.kicad_sch"/>
+      <property name="ki_description" value="Resistor, small symbol"/>
+      <property name="ki_keywords" value="R resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ea1f76a5-2a1c-4ee9-82a6-ff2ab6caadc1</tstamps>
+    </comp>
+    <comp ref="R16">
+      <value>1k</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder</footprint>
+      <datasheet>https://www.yageo.com/upload/media/product/app/datasheet/rchip/pyu-rc_group_51_rohs_l.pdf</datasheet>
+      <fields>
+        <field name="DigiKeyPN">311-1.00KLRCT-ND</field>
+        <field name="DigiKeyPrice">$0.17600</field>
+        <field name="ProductPage">https://www.digikey.com.au/en/products/detail/yageo/RC0402FR-071KL/726513</field>
+        <field name="oemPN">RC0402FR-071KL</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="oemPN" value="RC0402FR-071KL"/>
+      <property name="DigiKeyPN" value="311-1.00KLRCT-ND"/>
+      <property name="DigiKeyPrice" value="$0.17600"/>
+      <property name="ProductPage" value="https://www.digikey.com.au/en/products/detail/yageo/RC0402FR-071KL/726513"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Arsenicv3.kicad_sch"/>
+      <property name="ki_description" value="Resistor, small symbol"/>
+      <property name="ki_keywords" value="R resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9de2559e-a762-4e80-ab22-385b59dd979b</tstamps>
+    </comp>
+    <comp ref="R17">
+      <value>1k</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder</footprint>
+      <datasheet>https://www.yageo.com/upload/media/product/app/datasheet/rchip/pyu-rc_group_51_rohs_l.pdf</datasheet>
+      <fields>
+        <field name="DigiKeyPN">311-1.00KLRCT-ND</field>
+        <field name="DigiKeyPrice">$0.17600</field>
+        <field name="ProductPage">https://www.digikey.com.au/en/products/detail/yageo/RC0402FR-071KL/726513</field>
+        <field name="oemPN">RC0402FR-071KL</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="oemPN" value="RC0402FR-071KL"/>
+      <property name="DigiKeyPN" value="311-1.00KLRCT-ND"/>
+      <property name="DigiKeyPrice" value="$0.17600"/>
+      <property name="ProductPage" value="https://www.digikey.com.au/en/products/detail/yageo/RC0402FR-071KL/726513"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Arsenicv3.kicad_sch"/>
+      <property name="ki_description" value="Resistor, small symbol"/>
+      <property name="ki_keywords" value="R resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>29a77541-a9d9-404a-9ec8-d9e655c47d22</tstamps>
+    </comp>
+    <comp ref="S1">
+      <value>JS102011SAQN</value>
+      <footprint>JS102011SAQN:SW_JS102011SAQN</footprint>
+      <datasheet>https://www.ckswitches.com/media/1422/js.pdf</datasheet>
+      <fields>
+        <field name="DigiKeyPN">401-1999-1-ND</field>
+        <field name="DigiKeyPrice">$1.26500</field>
+        <field name="ProductPage">https://www.digikey.com.au/en/products/detail/c-k/JS102011SAQN/1640095?s=N4IgTCBcDaIFIGUCMAGMKlIQQQIoDkQBdAXyA</field>
+        <field name="oemPN">JS102011SAQN</field>
+      </fields>
+      <libsource lib="JS102011SAQN" part="JS102011SAQN" description=""/>
+      <property name="oemPN" value="JS102011SAQN"/>
+      <property name="DigiKeyPN" value="401-1999-1-ND"/>
+      <property name="DigiKeyPrice" value="$1.26500"/>
+      <property name="ProductPage" value="https://www.digikey.com.au/en/products/detail/c-k/JS102011SAQN/1640095?s=N4IgTCBcDaIFIGUCMAGMKlIQQQIoDkQBdAXyA"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Arsenicv3.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>34922ef2-ae94-4658-baab-a912f95251a4</tstamps>
+    </comp>
+    <comp ref="SW1">
+      <value>KXT331LHS</value>
+      <footprint>KXT3_CNK</footprint>
+      <datasheet>KXT331LHS</datasheet>
+      <fields>
+        <field name="DigiKeyPN">CKN10779CT-ND</field>
+        <field name="DigiKeyPrice">$0.55000</field>
+        <field name="ProductPage">https://www.digikey.com.au/en/products/detail/c-k/KXT-331-LHS/6599754</field>
+        <field name="oemPN">KXT 331 LHS</field>
+      </fields>
+      <libsource lib="KXT 331 LHS" part="KXT331LHS" description=""/>
+      <property name="oemPN" value="KXT 331 LHS"/>
+      <property name="DigiKeyPN" value="CKN10779CT-ND"/>
+      <property name="DigiKeyPrice" value="$0.55000"/>
+      <property name="ProductPage" value="https://www.digikey.com.au/en/products/detail/c-k/KXT-331-LHS/6599754"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Arsenicv3.kicad_sch"/>
+      <property name="ki_keywords" value="KXT331LHS"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>abdfef2c-fee2-42ef-85ad-6e7fe5f45a1e</tstamps>
+    </comp>
+    <comp ref="SW2">
+      <value>KXT331LHS</value>
+      <footprint>KXT3_CNK</footprint>
+      <datasheet>KXT331LHS</datasheet>
+      <fields>
+        <field name="DigiKeyPN">CKN10779CT-ND</field>
+        <field name="DigiKeyPrice">$0.55000</field>
+        <field name="ProductPage">https://www.digikey.com.au/en/products/detail/c-k/KXT-331-LHS/6599754</field>
+        <field name="oemPN">KXT 331 LHS</field>
+      </fields>
+      <libsource lib="KXT 331 LHS" part="KXT331LHS" description=""/>
+      <property name="oemPN" value="KXT 331 LHS"/>
+      <property name="DigiKeyPN" value="CKN10779CT-ND"/>
+      <property name="DigiKeyPrice" value="$0.55000"/>
+      <property name="ProductPage" value="https://www.digikey.com.au/en/products/detail/c-k/KXT-331-LHS/6599754"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Arsenicv3.kicad_sch"/>
+      <property name="ki_keywords" value="KXT331LHS"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4a1bf0d9-4714-4b4c-8372-86ff5bc60c33</tstamps>
+    </comp>
+    <comp ref="U1">
+      <value>AP2112K-3.3</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23-5</footprint>
+      <datasheet>https://www.diodes.com/assets/Datasheets/AP2112.pdf</datasheet>
+      <fields>
+        <field name="DigiKeyPN">AP2112K-3.3TRG1DICT-ND</field>
+        <field name="DigiKeyPrice">$0.62700</field>
+        <field name="ProductPage">https://www.digikey.com.au/en/products/detail/diodes-incorporated/AP2112K-3-3TRG1/4470746?s=N4IgTCBcDaIIIAUwEZlgNIFoDMA6bIAugL5A</field>
+        <field name="oemPN">AP2112K-3.3TRG1</field>
+      </fields>
+      <libsource lib="Regulator_Linear" part="AP2112K-3.3" description="600mA low dropout linear regulator, with enable pin, 3.8V-6V input voltage range, 3.3V fixed positive output, SOT-23-5"/>
+      <property name="oemPN" value="AP2112K-3.3TRG1"/>
+      <property name="DigiKeyPN" value="AP2112K-3.3TRG1DICT-ND"/>
+      <property name="DigiKeyPrice" value="$0.62700"/>
+      <property name="ProductPage" value="https://www.digikey.com.au/en/products/detail/diodes-incorporated/AP2112K-3-3TRG1/4470746?s=N4IgTCBcDaIIIAUwEZlgNIFoDMA6bIAugL5A"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Arsenicv3.kicad_sch"/>
+      <property name="ki_description" value="600mA low dropout linear regulator, with enable pin, 3.8V-6V input voltage range, 3.3V fixed positive output, SOT-23-5"/>
+      <property name="ki_keywords" value="linear regulator ldo fixed positive"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>907670b1-ea45-4754-b3ed-9371f659f63b</tstamps>
+    </comp>
+    <comp ref="U2">
+      <value>BME280</value>
+      <footprint>Package_LGA:Bosch_LGA-8_2.5x2.5mm_P0.65mm_ClockwisePinNumbering</footprint>
+      <datasheet>https://www.bosch-sensortec.com/media/boschsensortec/downloads/datasheets/bst-bme280-ds002.pdf</datasheet>
+      <fields>
+        <field name="DigiKeyPN">828-1063-1-ND</field>
+        <field name="DigiKeyPrice">$11.46200</field>
+        <field name="ProductPage">https://www.digikey.com.au/en/products/detail/bosch-sensortec/BME280/6136306</field>
+        <field name="oemPN">BME280</field>
+      </fields>
+      <libsource lib="Sensor" part="BME280" description="3-in-1 sensor, humidity, pressure, temperature, I2C and SPI interface, 1.71-3.6V, LGA-8"/>
+      <property name="oemPN" value="BME280"/>
+      <property name="DigiKeyPN" value="828-1063-1-ND"/>
+      <property name="DigiKeyPrice" value="$11.46200"/>
+      <property name="ProductPage" value="https://www.digikey.com.au/en/products/detail/bosch-sensortec/BME280/6136306"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Arsenicv3.kicad_sch"/>
+      <property name="ki_description" value="3-in-1 sensor, humidity, pressure, temperature, I2C and SPI interface, 1.71-3.6V, LGA-8"/>
+      <property name="ki_keywords" value="Bosch pressure humidity temperature environment environmental measurement digital"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3cc60acb-5358-481a-b91e-c76c9313a6a5</tstamps>
+    </comp>
+    <comp ref="U3">
+      <value>ESP32-C3-MINI-1</value>
+      <footprint>PCM_Espressif:ESP32-C3-MINI-1</footprint>
+      <datasheet>https://www.espressif.com/sites/default/files/documentation/esp32-c3-mini-1_datasheet_en.pdf</datasheet>
+      <fields>
+        <field name="DigiKeyPN">1965-ESP32-C3-MINI-1-H4CT-ND</field>
+        <field name="DigiKeyPrice">$3.38800</field>
+        <field name="ProductPage">https://www.digikey.com.au/en/products/detail/espressif-systems/ESP32-C3-MINI-1-H4/14548892</field>
+        <field name="oemPN">ESP32-C3-MINI-1-H4</field>
+      </fields>
+      <libsource lib="PCM_Espressif" part="ESP32-C3-MINI-1" description="ESP32-C3-MINI-1 family is an ultra-low-power MCU-based SoC solution that supports 2.4 GHz Wi-Fi and Bluetooth®Low Energy (Bluetooth LE)."/>
+      <property name="oemPN" value="ESP32-C3-MINI-1-H4"/>
+      <property name="DigiKeyPN" value="1965-ESP32-C3-MINI-1-H4CT-ND"/>
+      <property name="DigiKeyPrice" value="$3.38800"/>
+      <property name="ProductPage" value="https://www.digikey.com.au/en/products/detail/espressif-systems/ESP32-C3-MINI-1-H4/14548892"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Arsenicv3.kicad_sch"/>
+      <property name="ki_description" value="ESP32-C3-MINI-1 family is an ultra-low-power MCU-based SoC solution that supports 2.4 GHz Wi-Fi and Bluetooth®Low Energy (Bluetooth LE)."/>
+      <property name="ki_keywords" value="esp32-c3"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>370cf751-b074-4720-a3e3-844791459561</tstamps>
+    </comp>
+    <comp ref="U4">
+      <value>MCP73871-1CC</value>
+      <footprint>Package_DFN_QFN:QFN-20-1EP_4x4mm_P0.5mm_EP2.5x2.5mm</footprint>
+      <datasheet>https://ww1.microchip.com/downloads/en/DeviceDoc/MCP73871-Data-Sheet-20002090E.pdf</datasheet>
+      <fields>
+        <field name="DigiKeyPN">MCP73871-1CCI/ML-ND</field>
+        <field name="DigiKeyPrice">$4.30100</field>
+        <field name="ProductPage">https://www.digikey.com.au/en/products/detail/microchip-technology/MCP73871-1CCI-ML/7928181?s=N4IgTCBcDaILIGEAKB2AzADhQRgLTYQRAF0BfIA</field>
+        <field name="oemPN">MCP73871-1CCI/ML</field>
+      </fields>
+      <libsource lib="Battery_Management" part="MCP73871-1CC" description="Single cell, Li-Ion/Li-Po charge management controller, 4.10V, 6h safety timer, 3.1V LBO threshold"/>
+      <property name="oemPN" value="MCP73871-1CCI/ML"/>
+      <property name="DigiKeyPN" value="MCP73871-1CCI/ML-ND"/>
+      <property name="DigiKeyPrice" value="$4.30100"/>
+      <property name="ProductPage" value="https://www.digikey.com.au/en/products/detail/microchip-technology/MCP73871-1CCI-ML/7928181?s=N4IgTCBcDaILIGEAKB2AzADhQRgLTYQRAF0BfIA"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Arsenicv3.kicad_sch"/>
+      <property name="ki_description" value="Single cell, Li-Ion/Li-Po charge management controller, 4.10V, 6h safety timer, 3.1V LBO threshold"/>
+      <property name="ki_keywords" value="battery charger lithium"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>acddb499-2899-4203-b80d-b8af578c1980</tstamps>
+    </comp>
+    <comp ref="U5">
+      <value>MAX17048G+T10</value>
+      <footprint>21-0168E_T822-3_MXM</footprint>
+      <datasheet>MAX17048G+T10</datasheet>
+      <fields>
+        <field name="DigiKeyPN">MAX17048G+T10CT-ND</field>
+        <field name="DigiKeyPrice">$5.84100</field>
+        <field name="ProductPage">https://www.digikey.com.au/en/products/detail/analog-devices-inc-maxim-integrated/MAX17048G-T10/3758921</field>
+        <field name="oemPN">MAX17048G+T10</field>
+      </fields>
+      <libsource lib="MAX17048G" part="MAX17048G+T10" description=""/>
+      <property name="oemPN" value="MAX17048G+T10"/>
+      <property name="DigiKeyPN" value="MAX17048G+T10CT-ND"/>
+      <property name="DigiKeyPrice" value="$5.84100"/>
+      <property name="ProductPage" value="https://www.digikey.com.au/en/products/detail/analog-devices-inc-maxim-integrated/MAX17048G-T10/3758921"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Arsenicv3.kicad_sch"/>
+      <property name="ki_keywords" value="MAX17048G+T10"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00ec7cb6-d072-42fd-a15d-6066c2775b28</tstamps>
+    </comp>
+    <comp ref="U6">
+      <value>EAST1616RGBA8</value>
+      <footprint>LED_EAST1616RGBA8</footprint>
+      <datasheet>EAST1616RGBA8</datasheet>
+      <libsource lib="EAST1616RGBA8" part="EAST1616RGBA8" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Arsenicv3.kicad_sch"/>
+      <property name="ki_keywords" value="EAST1616RGBA8"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>68af841e-3fa8-455e-a7da-0630fabb9c9a</tstamps>
+    </comp>
+    <comp ref="U7">
+      <value>DS18B20Z</value>
+      <footprint>Package_SO:SOIC-8_3.9x4.9mm_P1.27mm</footprint>
+      <datasheet>http://datasheets.maximintegrated.com/en/ds/DS18B20.pdf</datasheet>
+      <fields>
+        <field name="DigiKeyPN">4518-DS18B20ZCT-ND</field>
+        <field name="DigiKeyPrice">$5.67600</field>
+        <field name="ProductPage">https://www.digikey.com.au/en/products/detail/umw/DS18B20Z/16705926</field>
+        <field name="oemPN">DS18B20Z</field>
+      </fields>
+      <libsource lib="Sensor_Temperature" part="DS18B20Z" description="Programmable Resolution 1-Wire Digital Thermometer SOIC-8"/>
+      <property name="oemPN" value="DS18B20Z"/>
+      <property name="DigiKeyPN" value="4518-DS18B20ZCT-ND"/>
+      <property name="DigiKeyPrice" value="$5.67600"/>
+      <property name="ProductPage" value="https://www.digikey.com.au/en/products/detail/umw/DS18B20Z/16705926"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Arsenicv3.kicad_sch"/>
+      <property name="ki_description" value="Programmable Resolution 1-Wire Digital Thermometer SOIC-8"/>
+      <property name="ki_keywords" value="OneWire 1Wire Maxim Dallas"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c58a0c64-d5c5-43dd-9153-1851b12f63cd</tstamps>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="Battery_Management" part="MCP73871-1CC">
+      <description>Single cell, Li-Ion/Li-Po charge management controller, 4.10V, 6h safety timer, 3.1V LBO threshold</description>
+      <docs>http://www.mouser.com/ds/2/268/22090a-52174.pdf</docs>
+      <footprints>
+        <fp>QFN*4x4mm*P0.5mm*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">MCP73871-1CC</field>
+        <field name="Footprint">Package_DFN_QFN:QFN-20-1EP_4x4mm_P0.5mm_EP2.5x2.5mm</field>
+        <field name="Datasheet">http://www.mouser.com/ds/2/268/22090a-52174.pdf</field>
+      </fields>
+      <pins>
+        <pin num="1" name="OUT" type="power_out"/>
+        <pin num="2" name="VPCC" type="input"/>
+        <pin num="3" name="SEL" type="input"/>
+        <pin num="4" name="PROG2" type="input"/>
+        <pin num="5" name="THERM" type="bidirectional"/>
+        <pin num="6" name="~{PG}" type="open_collector"/>
+        <pin num="7" name="STAT2" type="open_collector"/>
+        <pin num="8" name="STAT1/~{LBO}" type="open_collector"/>
+        <pin num="9" name="~{TE}" type="input"/>
+        <pin num="10" name="V_{SS}" type="power_in"/>
+        <pin num="11" name="V_{SS}" type="passive"/>
+        <pin num="12" name="PROG3" type="bidirectional"/>
+        <pin num="13" name="PROG1" type="bidirectional"/>
+        <pin num="14" name="V_{BAT}" type="power_out"/>
+        <pin num="15" name="V_{BAT}" type="passive"/>
+        <pin num="16" name="V_{BAT_SENSE}" type="input"/>
+        <pin num="17" name="CE" type="input"/>
+        <pin num="18" name="IN" type="power_in"/>
+        <pin num="19" name="IN" type="passive"/>
+        <pin num="20" name="OUT" type="passive"/>
+        <pin num="21" name="V_{SS}" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector" part="Conn_01x02_Pin">
+      <description>Generic connector, single row, 01x02, script generated</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_1x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_01x02_Pin</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="C_Small">
+      <description>Unpolarized capacitor, small symbol</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>C_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">C_Small</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="Polyfuse_Small">
+      <description>Resettable fuse, polymeric positive temperature coefficient, small symbol</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>*polyfuse*</fp>
+        <fp>*PTC*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">F</field>
+        <field name="Value">Polyfuse_Small</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="R_Small">
+      <description>Resistor, small symbol</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>R_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">R_Small</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="EAST1616RGBA8" part="EAST1616RGBA8">
+      <docs>EAST1616RGBA8</docs>
+      <footprints>
+        <fp>LED_EAST1616RGBA8</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">EAST1616RGBA8</field>
+        <field name="Footprint">LED_EAST1616RGBA8</field>
+        <field name="Datasheet">EAST1616RGBA8</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="unspecified"/>
+        <pin num="2" name="2" type="unspecified"/>
+        <pin num="3" name="3" type="unspecified"/>
+        <pin num="4" name="4" type="unspecified"/>
+        <pin num="5" name="5" type="unspecified"/>
+        <pin num="6" name="6" type="unspecified"/>
+      </pins>
+    </libpart>
+    <libpart lib="JS102011SAQN" part="JS102011SAQN">
+      <fields>
+        <field name="Reference">S</field>
+        <field name="Value">JS102011SAQN</field>
+        <field name="Footprint">JS102011SAQN:SW_JS102011SAQN</field>
+        <field name="DigiKey_Part_Number">401-1999-2-ND</field>
+        <field name="MF">C&amp;K</field>
+        <field name="Purchase-URL">https://www.snapeda.com/api/url_track_click_mouser/?unipart_id=214325&amp;manufacturer=C&amp;amp;K&amp;part_name=JS102011SAQN&amp;search_term=None</field>
+        <field name="Package">None</field>
+        <field name="Check_prices">https://www.snapeda.com/parts/JS102011SAQN/C%2526K/view-part/?ref=eda</field>
+        <field name="SnapEDA_Link">https://www.snapeda.com/parts/JS102011SAQN/C%2526K/view-part/?ref=snap</field>
+        <field name="MP">JS102011SAQN</field>
+        <field name="Description">
+Switch, Slide, SPDT, ON-ON, 300mA, 6VDC, Surface Mount, R/A, Gull Wing | C&amp;K JS102011SAQN
+</field>
+        <field name="MANUFACTURER">C&amp;K</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+        <pin num="3" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="KXT 331 LHS" part="KXT331LHS">
+      <docs>KXT331LHS</docs>
+      <footprints>
+        <fp>KXT3_CNK</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">SW</field>
+        <field name="Value">KXT331LHS</field>
+        <field name="Footprint">KXT3_CNK</field>
+        <field name="Datasheet">KXT331LHS</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="unspecified"/>
+        <pin num="2" name="2" type="unspecified"/>
+      </pins>
+    </libpart>
+    <libpart lib="LED" part="WS2812B">
+      <description>RGB LED with integrated controller</description>
+      <docs>https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf</docs>
+      <footprints>
+        <fp>LED*WS2812*PLCC*5.0x5.0mm*P3.2mm*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">WS2812B</field>
+        <field name="Footprint">LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm</field>
+        <field name="Datasheet">https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf</field>
+      </fields>
+      <pins>
+        <pin num="1" name="VDD" type="power_in"/>
+        <pin num="2" name="DOUT" type="output"/>
+        <pin num="3" name="VSS" type="power_in"/>
+        <pin num="4" name="DIN" type="input"/>
+      </pins>
+    </libpart>
+    <libpart lib="MAX17048G" part="MAX17048G+T10">
+      <docs>MAX17048G+T10</docs>
+      <footprints>
+        <fp>21-0168E_T822-3_MXM</fp>
+        <fp>21-0168E_T822-3_MXM-M</fp>
+        <fp>21-0168E_T822-3_MXM-L</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">MAX17048G+T10</field>
+        <field name="Footprint">21-0168E_T822-3_MXM</field>
+        <field name="Datasheet">MAX17048G+T10</field>
+      </fields>
+      <pins>
+        <pin num="1" name="CTG" type="unspecified"/>
+        <pin num="2" name="CELL" type="unspecified"/>
+        <pin num="3" name="VDD" type="power_in"/>
+        <pin num="4" name="GND" type="power_in"/>
+        <pin num="5" name="*ALRT" type="output"/>
+        <pin num="6" name="QSTRT" type="input"/>
+        <pin num="7" name="SCL" type="input"/>
+        <pin num="8" name="SDA" type="bidirectional"/>
+        <pin num="9" name="EPAD" type="unspecified"/>
+      </pins>
+    </libpart>
+    <libpart lib="PCM_Espressif" part="ESP32-C3-MINI-1">
+      <description>ESP32-C3-MINI-1 family is an ultra-low-power MCU-based SoC solution that supports 2.4 GHz Wi-Fi and Bluetooth®Low Energy (Bluetooth LE).</description>
+      <docs>https://www.espressif.com/sites/default/files/documentation/esp32-c3-mini-1_datasheet_en.pdf</docs>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">ESP32-C3-MINI-1</field>
+        <field name="Footprint">Espressif:ESP32-C3-MINI-1</field>
+        <field name="Datasheet">https://www.espressif.com/sites/default/files/documentation/esp32-c3-mini-1_datasheet_en.pdf</field>
+      </fields>
+      <pins>
+        <pin num="1" name="GND" type="power_in"/>
+        <pin num="2" name="GND" type="passive"/>
+        <pin num="3" name="3V3" type="power_in"/>
+        <pin num="4" name="NC" type="no_connect"/>
+        <pin num="5" name="GPIO2/ADC1_CH2" type="bidirectional"/>
+        <pin num="6" name="GPIO3/ADC1_CH3" type="bidirectional"/>
+        <pin num="7" name="NC" type="no_connect"/>
+        <pin num="8" name="EN/CHIP_PU" type="input"/>
+        <pin num="9" name="NC" type="no_connect"/>
+        <pin num="10" name="NC" type="no_connect"/>
+        <pin num="11" name="GND" type="passive"/>
+        <pin num="12" name="GPIO0/ADC1_CH0/XTAL_32K_P" type="bidirectional"/>
+        <pin num="13" name="GPIO1/ADC1_CH1/XTAL_32K_N" type="bidirectional"/>
+        <pin num="14" name="GND" type="passive"/>
+        <pin num="15" name="NC" type="no_connect"/>
+        <pin num="16" name="GPIO10" type="bidirectional"/>
+        <pin num="17" name="NC" type="no_connect"/>
+        <pin num="18" name="GPIO4/ADC1_CH4" type="bidirectional"/>
+        <pin num="19" name="GPIO5/ADC2_CH0" type="bidirectional"/>
+        <pin num="20" name="GPIO6" type="bidirectional"/>
+        <pin num="21" name="GPIO7" type="bidirectional"/>
+        <pin num="22" name="GPIO8" type="bidirectional"/>
+        <pin num="23" name="GPIO9" type="bidirectional"/>
+        <pin num="24" name="NC" type="no_connect"/>
+        <pin num="25" name="NC" type="no_connect"/>
+        <pin num="26" name="GPIO18/USB_D-" type="bidirectional"/>
+        <pin num="27" name="GPIO19/USB_D+" type="bidirectional"/>
+        <pin num="28" name="NC" type="no_connect"/>
+        <pin num="29" name="NC" type="no_connect"/>
+        <pin num="30" name="GPIO20/U0RXD" type="bidirectional"/>
+        <pin num="31" name="GPIO21/U0TXD" type="bidirectional"/>
+        <pin num="32" name="NC" type="no_connect"/>
+        <pin num="33" name="NC" type="no_connect"/>
+        <pin num="34" name="NC" type="no_connect"/>
+        <pin num="35" name="NC" type="no_connect"/>
+        <pin num="36" name="GND" type="passive"/>
+        <pin num="37" name="GND" type="passive"/>
+        <pin num="38" name="GND" type="passive"/>
+        <pin num="39" name="GND" type="passive"/>
+        <pin num="40" name="GND" type="passive"/>
+        <pin num="41" name="GND" type="passive"/>
+        <pin num="42" name="GND" type="passive"/>
+        <pin num="43" name="GND" type="passive"/>
+        <pin num="44" name="GND" type="passive"/>
+        <pin num="45" name="GND" type="passive"/>
+        <pin num="46" name="GND" type="passive"/>
+        <pin num="47" name="GND" type="passive"/>
+        <pin num="48" name="GND" type="passive"/>
+        <pin num="49" name="GND" type="passive"/>
+        <pin num="50" name="GND" type="passive"/>
+        <pin num="51" name="GND" type="passive"/>
+        <pin num="52" name="GND" type="passive"/>
+        <pin num="53" name="GND" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Power_Protection" part="PRTR5V0U2X">
+      <description>Ultra low capacitance double rail-to-rail ESD protection diode, SOT-143</description>
+      <docs>https://assets.nexperia.com/documents/data-sheet/PRTR5V0U2X.pdf</docs>
+      <footprints>
+        <fp>SOT?143*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">PRTR5V0U2X</field>
+        <field name="Footprint">Package_TO_SOT_SMD:SOT-143</field>
+        <field name="Datasheet">https://assets.nexperia.com/documents/data-sheet/PRTR5V0U2X.pdf</field>
+      </fields>
+      <pins>
+        <pin num="1" name="GND" type="passive"/>
+        <pin num="2" name="I/O1" type="passive"/>
+        <pin num="3" name="I/O2" type="passive"/>
+        <pin num="4" name="VCC" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Regulator_Linear" part="AP2112K-3.3">
+      <description>600mA low dropout linear regulator, with enable pin, 3.8V-6V input voltage range, 3.3V fixed positive output, SOT-23-5</description>
+      <docs>https://www.diodes.com/assets/Datasheets/AP2112.pdf</docs>
+      <footprints>
+        <fp>SOT?23?5*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">AP2112K-3.3</field>
+        <field name="Footprint">Package_TO_SOT_SMD:SOT-23-5</field>
+        <field name="Datasheet">https://www.diodes.com/assets/Datasheets/AP2112.pdf</field>
+      </fields>
+      <pins>
+        <pin num="1" name="VIN" type="power_in"/>
+        <pin num="2" name="GND" type="power_in"/>
+        <pin num="3" name="EN" type="input"/>
+        <pin num="4" name="NC" type="no_connect"/>
+        <pin num="5" name="VOUT" type="power_out"/>
+      </pins>
+    </libpart>
+    <libpart lib="Sensor" part="BME280">
+      <description>3-in-1 sensor, humidity, pressure, temperature, I2C and SPI interface, 1.71-3.6V, LGA-8</description>
+      <docs>https://www.bosch-sensortec.com/media/boschsensortec/downloads/datasheets/bst-bme280-ds002.pdf</docs>
+      <footprints>
+        <fp>*LGA*2.5x2.5mm*P0.65mm*Clockwise*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U2</field>
+        <field name="Value">BME280</field>
+        <field name="Footprint">Package_LGA:Bosch_LGA-8_2.5x2.5mm_P0.65mm_ClockwisePinNumbering</field>
+        <field name="Datasheet">https://www.bosch-sensortec.com/media/boschsensortec/downloads/datasheets/bst-bme280-ds002.pdf</field>
+      </fields>
+      <pins>
+        <pin num="1" name="GND" type="power_in"/>
+        <pin num="2" name="CSB" type="input"/>
+        <pin num="3" name="SDI" type="bidirectional"/>
+        <pin num="4" name="SCK" type="input"/>
+        <pin num="5" name="SDO" type="bidirectional"/>
+        <pin num="6" name="VDDIO" type="power_in"/>
+        <pin num="7" name="GND" type="power_in"/>
+        <pin num="8" name="VDD" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="Sensor_Temperature" part="DS18B20Z">
+      <description>Programmable Resolution 1-Wire Digital Thermometer SOIC-8</description>
+      <docs>http://datasheets.maximintegrated.com/en/ds/DS18B20.pdf</docs>
+      <footprints>
+        <fp>SOIC*3.9x4.9mm*P1.27mm*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">DS18B20Z</field>
+        <field name="Footprint">Package_SO:SOIC-8_3.9x4.9mm_P1.27mm</field>
+        <field name="Datasheet">http://datasheets.maximintegrated.com/en/ds/DS18B20.pdf</field>
+      </fields>
+      <pins>
+        <pin num="1" name="NC" type="no_connect"/>
+        <pin num="2" name="NC" type="no_connect"/>
+        <pin num="3" name="V_{DD}" type="power_in"/>
+        <pin num="4" name="DQ" type="bidirectional"/>
+        <pin num="5" name="GND" type="power_in"/>
+        <pin num="6" name="NC" type="no_connect"/>
+        <pin num="7" name="NC" type="no_connect"/>
+        <pin num="8" name="NC" type="no_connect"/>
+      </pins>
+    </libpart>
+    <libpart lib="USB4105-GF-A" part="USB4105-GF-A">
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">USB4105-GF-A</field>
+        <field name="Footprint">USB4105-GF-A:GCT_USB4105-GF-A</field>
+        <field name="MF">GCT</field>
+        <field name="MAXIMUM_PACKAGE_HEIGHT">3.31 mm</field>
+        <field name="Package">None</field>
+        <field name="Price">None</field>
+        <field name="Check_prices">https://www.snapeda.com/parts/USB4105-GF-A/Global+Connector+Technology/view-part/?ref=eda</field>
+        <field name="STANDARD">Manufacturer Recommendations</field>
+        <field name="PARTREV">A3</field>
+        <field name="SnapEDA_Link">https://www.snapeda.com/parts/USB4105-GF-A/Global+Connector+Technology/view-part/?ref=snap</field>
+        <field name="MP">USB4105-GF-A</field>
+        <field name="Purchase-URL">https://www.snapeda.com/api/url_track_click_mouser/?unipart_id=4423780&amp;manufacturer=GCT&amp;part_name=USB4105-GF-A&amp;search_term=usb4105</field>
+        <field name="Description">
+USB-C (USB TYPE-C) USB 2.0 Receptacle Connector 24 (16+8 Dummy) Position Surface Mount, Right Angle; Through Hole
+</field>
+        <field name="Availability">In Stock</field>
+        <field name="MANUFACTURER">GCT</field>
+      </fields>
+      <pins>
+        <pin num="A1_B12" name="GND" type="power_in"/>
+        <pin num="A4_B9" name="VBUS" type="power_in"/>
+        <pin num="A5" name="CC1" type="bidirectional"/>
+        <pin num="A6" name="DP1" type="bidirectional"/>
+        <pin num="A7" name="DN1" type="bidirectional"/>
+        <pin num="A8" name="SBU1" type="bidirectional"/>
+        <pin num="B1_A12" name="GND" type="power_in"/>
+        <pin num="B4_A9" name="VBUS" type="power_in"/>
+        <pin num="B5" name="CC2" type="bidirectional"/>
+        <pin num="B6" name="DP2" type="bidirectional"/>
+        <pin num="B7" name="DN2" type="bidirectional"/>
+        <pin num="B8" name="SBU2" type="bidirectional"/>
+        <pin num="S1" name="SHELL_GND" type="power_in"/>
+        <pin num="S2" name="SHELL_GND" type="power_in"/>
+        <pin num="S3" name="SHELL_GND" type="power_in"/>
+        <pin num="S4" name="SHELL_GND" type="power_in"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="Battery_Management">
+      <uri>/usr/share/kicad/symbols//Battery_Management.kicad_sym</uri>
+    </library>
+    <library logical="Connector">
+      <uri>/usr/share/kicad/symbols//Connector.kicad_sym</uri>
+    </library>
+    <library logical="Device">
+      <uri>/usr/share/kicad/symbols//Device.kicad_sym</uri>
+    </library>
+    <library logical="EAST1616RGBA8">
+      <uri>/home/spoonie/Documents/PlatformIO/Projects/Arsnic-C3/PCB/Arsenicv3/Footprints/EAST1616RGBA8/2023-12-30_07-54-59.kicad_sym</uri>
+    </library>
+    <library logical="JS102011SAQN">
+      <uri>/home/spoonie/Documents/PlatformIO/Projects/Arsnic-C3/PCB/Arsenicv3/Footprints/JS102011SAQN/JS102011SAQN.kicad_sym</uri>
+    </library>
+    <library logical="KXT 331 LHS">
+      <uri>/home/spoonie/Documents/PlatformIO/Projects/Arsnic-C3/PCB/Arsenicv3/Footprints/KXT 331 LHS/2023-12-30_04-22-41.kicad_sym</uri>
+    </library>
+    <library logical="LED">
+      <uri>/usr/share/kicad/symbols//LED.kicad_sym</uri>
+    </library>
+    <library logical="MAX17048G">
+      <uri>/home/spoonie/Documents/PlatformIO/Projects/Arsnic-C3/PCB/Arsenicv3/Footprints/MAX17048G/2023-12-30_07-04-52.kicad_sym</uri>
+    </library>
+    <library logical="PCM_Espressif">
+      <uri>/home/spoonie/.local/share/kicad/7.0/3rdparty/symbols/com_github_espressif_kicad-libraries/Espressif.kicad_sym</uri>
+    </library>
+    <library logical="Power_Protection">
+      <uri>/usr/share/kicad/symbols//Power_Protection.kicad_sym</uri>
+    </library>
+    <library logical="Regulator_Linear">
+      <uri>/usr/share/kicad/symbols//Regulator_Linear.kicad_sym</uri>
+    </library>
+    <library logical="Sensor">
+      <uri>/usr/share/kicad/symbols//Sensor.kicad_sym</uri>
+    </library>
+    <library logical="Sensor_Temperature">
+      <uri>/usr/share/kicad/symbols//Sensor_Temperature.kicad_sym</uri>
+    </library>
+    <library logical="USB4105-GF-A">
+      <uri>/home/spoonie/Documents/PlatformIO/Projects/Arsnic-C3/PCB/Arsenicv3/Footprints/USB4105-GF-A/USB4105-GF-A.kicad_sym</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="+3.3V">
+      <node ref="C1" pin="1" pintype="passive"/>
+      <node ref="C2" pin="2" pintype="passive"/>
+      <node ref="C3" pin="1" pintype="passive"/>
+      <node ref="C5" pin="1" pintype="passive"/>
+      <node ref="C6" pin="1" pintype="passive"/>
+      <node ref="C7" pin="1" pintype="passive"/>
+      <node ref="D1" pin="1" pinfunction="VDD" pintype="power_in"/>
+      <node ref="R1" pin="2" pintype="passive"/>
+      <node ref="R11" pin="1" pintype="passive"/>
+      <node ref="R2" pin="2" pintype="passive"/>
+      <node ref="R3" pin="2" pintype="passive"/>
+      <node ref="R4" pin="1" pintype="passive"/>
+      <node ref="R7" pin="1" pintype="passive"/>
+      <node ref="R8" pin="1" pintype="passive"/>
+      <node ref="U1" pin="5" pinfunction="VOUT" pintype="power_out"/>
+      <node ref="U2" pin="2" pinfunction="CSB" pintype="input"/>
+      <node ref="U2" pin="6" pinfunction="VDDIO" pintype="power_in"/>
+      <node ref="U2" pin="8" pinfunction="VDD" pintype="power_in"/>
+      <node ref="U3" pin="3" pinfunction="3V3" pintype="power_in"/>
+      <node ref="U7" pin="3" pinfunction="V_{DD}" pintype="power_in"/>
+    </net>
+    <net code="2" name="+5V">
+      <node ref="C13" pin="1" pintype="passive"/>
+      <node ref="C4" pin="1" pintype="passive"/>
+      <node ref="D2" pin="4" pinfunction="VCC" pintype="passive"/>
+      <node ref="S1" pin="2" pintype="passive"/>
+      <node ref="U1" pin="1" pinfunction="VIN" pintype="power_in"/>
+      <node ref="U1" pin="3" pinfunction="EN" pintype="input"/>
+      <node ref="U5" pin="2" pinfunction="CELL" pintype="unspecified"/>
+      <node ref="U5" pin="3" pinfunction="VDD" pintype="power_in"/>
+      <node ref="U6" pin="5" pinfunction="5" pintype="unspecified"/>
+    </net>
+    <net code="3" name="/EN">
+      <node ref="C12" pin="2" pintype="passive"/>
+      <node ref="R11" pin="2" pintype="passive"/>
+      <node ref="SW2" pin="1" pinfunction="1" pintype="unspecified"/>
+      <node ref="U3" pin="23" pinfunction="GPIO9" pintype="bidirectional"/>
+    </net>
+    <net code="4" name="/GPI010">
+      <node ref="D1" pin="4" pinfunction="DIN" pintype="input"/>
+      <node ref="U3" pin="16" pinfunction="GPIO10" pintype="bidirectional"/>
+    </net>
+    <net code="5" name="/GPIO3">
+      <node ref="R1" pin="1" pintype="passive"/>
+      <node ref="U3" pin="6" pinfunction="GPIO3/ADC1_CH3" pintype="bidirectional"/>
+      <node ref="U7" pin="4" pinfunction="DQ" pintype="bidirectional"/>
+    </net>
+    <net code="6" name="/RESET">
+      <node ref="C8" pin="2" pintype="passive"/>
+      <node ref="R8" pin="2" pintype="passive"/>
+      <node ref="SW1" pin="1" pinfunction="1" pintype="unspecified"/>
+      <node ref="U3" pin="8" pinfunction="EN/CHIP_PU" pintype="input"/>
+    </net>
+    <net code="7" name="/SCA">
+      <node ref="R2" pin="1" pintype="passive"/>
+      <node ref="U2" pin="3" pinfunction="SDI" pintype="bidirectional"/>
+      <node ref="U3" pin="21" pinfunction="GPIO7" pintype="bidirectional"/>
+      <node ref="U5" pin="8" pinfunction="SDA" pintype="bidirectional"/>
+    </net>
+    <net code="8" name="/SCL">
+      <node ref="R3" pin="1" pintype="passive"/>
+      <node ref="U2" pin="4" pinfunction="SCK" pintype="input"/>
+      <node ref="U3" pin="20" pinfunction="GPIO6" pintype="bidirectional"/>
+      <node ref="U5" pin="7" pinfunction="SCL" pintype="input"/>
+    </net>
+    <net code="9" name="/USB_D+">
+      <node ref="D2" pin="2" pinfunction="I/O1" pintype="passive"/>
+      <node ref="J4" pin="A6" pinfunction="DP1" pintype="bidirectional"/>
+      <node ref="J4" pin="B6" pinfunction="DP2" pintype="bidirectional"/>
+      <node ref="U3" pin="27" pinfunction="GPIO19/USB_D+" pintype="bidirectional"/>
+    </net>
+    <net code="10" name="/USB_D-">
+      <node ref="D2" pin="3" pinfunction="I/O2" pintype="passive"/>
+      <node ref="J4" pin="A7" pinfunction="DN1" pintype="bidirectional"/>
+      <node ref="J4" pin="B7" pinfunction="DN2" pintype="bidirectional"/>
+      <node ref="U3" pin="26" pinfunction="GPIO18/USB_D-" pintype="bidirectional"/>
+    </net>
+    <net code="11" name="GND">
+      <node ref="C1" pin="2" pintype="passive"/>
+      <node ref="C10" pin="2" pintype="passive"/>
+      <node ref="C11" pin="2" pintype="passive"/>
+      <node ref="C12" pin="1" pintype="passive"/>
+      <node ref="C13" pin="2" pintype="passive"/>
+      <node ref="C2" pin="1" pintype="passive"/>
+      <node ref="C3" pin="2" pintype="passive"/>
+      <node ref="C4" pin="2" pintype="passive"/>
+      <node ref="C5" pin="2" pintype="passive"/>
+      <node ref="C6" pin="2" pintype="passive"/>
+      <node ref="C7" pin="2" pintype="passive"/>
+      <node ref="C8" pin="1" pintype="passive"/>
+      <node ref="C9" pin="2" pintype="passive"/>
+      <node ref="D1" pin="3" pinfunction="VSS" pintype="power_in"/>
+      <node ref="D2" pin="1" pinfunction="GND" pintype="passive"/>
+      <node ref="J1" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="J4" pin="A1_B12" pinfunction="GND" pintype="power_in"/>
+      <node ref="J4" pin="B1_A12" pinfunction="GND" pintype="power_in"/>
+      <node ref="J4" pin="S1" pinfunction="SHELL_GND" pintype="power_in"/>
+      <node ref="J4" pin="S2" pinfunction="SHELL_GND" pintype="power_in"/>
+      <node ref="J4" pin="S3" pinfunction="SHELL_GND" pintype="power_in"/>
+      <node ref="J4" pin="S4" pinfunction="SHELL_GND" pintype="power_in"/>
+      <node ref="R10" pin="1" pintype="passive"/>
+      <node ref="R12" pin="2" pintype="passive"/>
+      <node ref="R13" pin="1" pintype="passive"/>
+      <node ref="R15" pin="2" pintype="passive"/>
+      <node ref="R5" pin="1" pintype="passive"/>
+      <node ref="R6" pin="2" pintype="passive"/>
+      <node ref="SW1" pin="2" pinfunction="2" pintype="unspecified"/>
+      <node ref="SW2" pin="2" pinfunction="2" pintype="unspecified"/>
+      <node ref="U1" pin="2" pinfunction="GND" pintype="power_in"/>
+      <node ref="U2" pin="1" pinfunction="GND" pintype="power_in"/>
+      <node ref="U2" pin="5" pinfunction="SDO" pintype="bidirectional"/>
+      <node ref="U2" pin="7" pinfunction="GND" pintype="power_in"/>
+      <node ref="U3" pin="1" pinfunction="GND" pintype="power_in"/>
+      <node ref="U3" pin="11" pinfunction="GND" pintype="passive"/>
+      <node ref="U3" pin="14" pinfunction="GND" pintype="passive"/>
+      <node ref="U3" pin="2" pinfunction="GND" pintype="passive"/>
+      <node ref="U3" pin="36" pinfunction="GND" pintype="passive"/>
+      <node ref="U3" pin="37" pinfunction="GND" pintype="passive"/>
+      <node ref="U3" pin="38" pinfunction="GND" pintype="passive"/>
+      <node ref="U3" pin="39" pinfunction="GND" pintype="passive"/>
+      <node ref="U3" pin="40" pinfunction="GND" pintype="passive"/>
+      <node ref="U3" pin="41" pinfunction="GND" pintype="passive"/>
+      <node ref="U3" pin="42" pinfunction="GND" pintype="passive"/>
+      <node ref="U3" pin="43" pinfunction="GND" pintype="passive"/>
+      <node ref="U3" pin="44" pinfunction="GND" pintype="passive"/>
+      <node ref="U3" pin="45" pinfunction="GND" pintype="passive"/>
+      <node ref="U3" pin="46" pinfunction="GND" pintype="passive"/>
+      <node ref="U3" pin="47" pinfunction="GND" pintype="passive"/>
+      <node ref="U3" pin="48" pinfunction="GND" pintype="passive"/>
+      <node ref="U3" pin="49" pinfunction="GND" pintype="passive"/>
+      <node ref="U3" pin="50" pinfunction="GND" pintype="passive"/>
+      <node ref="U3" pin="51" pinfunction="GND" pintype="passive"/>
+      <node ref="U3" pin="52" pinfunction="GND" pintype="passive"/>
+      <node ref="U3" pin="53" pinfunction="GND" pintype="passive"/>
+      <node ref="U4" pin="10" pinfunction="V_{SS}" pintype="power_in"/>
+      <node ref="U4" pin="11" pinfunction="V_{SS}" pintype="passive"/>
+      <node ref="U4" pin="21" pinfunction="V_{SS}" pintype="passive"/>
+      <node ref="U4" pin="3" pinfunction="SEL" pintype="input"/>
+      <node ref="U4" pin="4" pinfunction="PROG2" pintype="input"/>
+      <node ref="U4" pin="9" pinfunction="~{TE}" pintype="input"/>
+      <node ref="U5" pin="1" pinfunction="CTG" pintype="unspecified"/>
+      <node ref="U5" pin="4" pinfunction="GND" pintype="power_in"/>
+      <node ref="U5" pin="6" pinfunction="QSTRT" pintype="input"/>
+      <node ref="U5" pin="9" pinfunction="EPAD" pintype="unspecified"/>
+      <node ref="U7" pin="5" pinfunction="GND" pintype="power_in"/>
+    </net>
+    <net code="12" name="Net-(C10-Pad1)">
+      <node ref="C10" pin="1" pintype="passive"/>
+      <node ref="S1" pin="3" pintype="passive"/>
+      <node ref="U4" pin="1" pinfunction="OUT" pintype="power_out"/>
+      <node ref="U4" pin="20" pinfunction="OUT" pintype="passive"/>
+    </net>
+    <net code="13" name="Net-(F1-Pad1)">
+      <node ref="F1" pin="1" pintype="passive"/>
+      <node ref="J4" pin="A4_B9" pinfunction="VBUS" pintype="power_in"/>
+      <node ref="J4" pin="B4_A9" pinfunction="VBUS" pintype="power_in"/>
+    </net>
+    <net code="14" name="Net-(J1-Pin_1)">
+      <node ref="C11" pin="1" pintype="passive"/>
+      <node ref="J1" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="U4" pin="14" pinfunction="V_{BAT}" pintype="power_out"/>
+      <node ref="U4" pin="15" pinfunction="V_{BAT}" pintype="passive"/>
+      <node ref="U4" pin="16" pinfunction="V_{BAT_SENSE}" pintype="input"/>
+    </net>
+    <net code="15" name="Net-(J4-CC1)">
+      <node ref="J4" pin="A5" pinfunction="CC1" pintype="bidirectional"/>
+      <node ref="R6" pin="1" pintype="passive"/>
+    </net>
+    <net code="16" name="Net-(J4-CC2)">
+      <node ref="J4" pin="B5" pinfunction="CC2" pintype="bidirectional"/>
+      <node ref="R5" pin="2" pintype="passive"/>
+    </net>
+    <net code="17" name="Net-(R14-Pad2)">
+      <node ref="R14" pin="2" pintype="passive"/>
+      <node ref="U6" pin="2" pinfunction="2" pintype="unspecified"/>
+    </net>
+    <net code="18" name="Net-(R16-Pad2)">
+      <node ref="R16" pin="2" pintype="passive"/>
+      <node ref="U6" pin="4" pinfunction="4" pintype="unspecified"/>
+    </net>
+    <net code="19" name="Net-(R17-Pad2)">
+      <node ref="R17" pin="2" pintype="passive"/>
+      <node ref="U6" pin="6" pinfunction="6" pintype="unspecified"/>
+    </net>
+    <net code="20" name="Net-(U3-GPIO2{slash}ADC1_CH2)">
+      <node ref="R4" pin="2" pintype="passive"/>
+      <node ref="U3" pin="5" pinfunction="GPIO2/ADC1_CH2" pintype="bidirectional"/>
+    </net>
+    <net code="21" name="Net-(U3-GPIO8)">
+      <node ref="R7" pin="2" pintype="passive"/>
+      <node ref="U3" pin="22" pinfunction="GPIO8" pintype="bidirectional"/>
+    </net>
+    <net code="22" name="Net-(U4-PROG1)">
+      <node ref="R12" pin="1" pintype="passive"/>
+      <node ref="U4" pin="13" pinfunction="PROG1" pintype="bidirectional"/>
+    </net>
+    <net code="23" name="Net-(U4-PROG3)">
+      <node ref="R13" pin="2" pintype="passive"/>
+      <node ref="U4" pin="12" pinfunction="PROG3" pintype="bidirectional"/>
+    </net>
+    <net code="24" name="Net-(U4-STAT1{slash}~{LBO})">
+      <node ref="R17" pin="1" pintype="passive"/>
+      <node ref="U4" pin="8" pinfunction="STAT1/~{LBO}" pintype="open_collector"/>
+    </net>
+    <net code="25" name="Net-(U4-STAT2)">
+      <node ref="R16" pin="1" pintype="passive"/>
+      <node ref="U4" pin="7" pinfunction="STAT2" pintype="open_collector"/>
+    </net>
+    <net code="26" name="Net-(U4-THERM)">
+      <node ref="R15" pin="1" pintype="passive"/>
+      <node ref="U4" pin="5" pinfunction="THERM" pintype="bidirectional"/>
+    </net>
+    <net code="27" name="Net-(U4-VPCC)">
+      <node ref="R10" pin="2" pintype="passive"/>
+      <node ref="R9" pin="1" pintype="passive"/>
+      <node ref="U4" pin="2" pinfunction="VPCC" pintype="input"/>
+    </net>
+    <net code="28" name="Net-(U4-~{PG})">
+      <node ref="R14" pin="1" pintype="passive"/>
+      <node ref="U4" pin="6" pinfunction="~{PG}" pintype="open_collector"/>
+    </net>
+    <net code="29" name="VCC">
+      <node ref="C9" pin="1" pintype="passive"/>
+      <node ref="F1" pin="2" pintype="passive"/>
+      <node ref="R9" pin="2" pintype="passive"/>
+      <node ref="U4" pin="17" pinfunction="CE" pintype="input"/>
+      <node ref="U4" pin="18" pinfunction="IN" pintype="power_in"/>
+      <node ref="U4" pin="19" pinfunction="IN" pintype="passive"/>
+      <node ref="U6" pin="1" pinfunction="1" pintype="unspecified"/>
+      <node ref="U6" pin="3" pinfunction="3" pintype="unspecified"/>
+    </net>
+    <net code="30" name="unconnected-(D1-DOUT-Pad2)">
+      <node ref="D1" pin="2" pinfunction="DOUT" pintype="output+no_connect"/>
+    </net>
+    <net code="31" name="unconnected-(J4-SBU1-PadA8)">
+      <node ref="J4" pin="A8" pinfunction="SBU1" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="32" name="unconnected-(J4-SBU2-PadB8)">
+      <node ref="J4" pin="B8" pinfunction="SBU2" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="33" name="unconnected-(S1-Pad1)">
+      <node ref="S1" pin="1" pintype="passive+no_connect"/>
+    </net>
+    <net code="34" name="unconnected-(U1-NC-Pad4)">
+      <node ref="U1" pin="4" pinfunction="NC" pintype="no_connect"/>
+    </net>
+    <net code="35" name="unconnected-(U3-GPIO0{slash}ADC1_CH0{slash}XTAL_32K_P-Pad12)">
+      <node ref="U3" pin="12" pinfunction="GPIO0/ADC1_CH0/XTAL_32K_P" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="36" name="unconnected-(U3-GPIO1{slash}ADC1_CH1{slash}XTAL_32K_N-Pad13)">
+      <node ref="U3" pin="13" pinfunction="GPIO1/ADC1_CH1/XTAL_32K_N" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="37" name="unconnected-(U3-GPIO4{slash}ADC1_CH4-Pad18)">
+      <node ref="U3" pin="18" pinfunction="GPIO4/ADC1_CH4" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="38" name="unconnected-(U3-GPIO5{slash}ADC2_CH0-Pad19)">
+      <node ref="U3" pin="19" pinfunction="GPIO5/ADC2_CH0" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="39" name="unconnected-(U3-GPIO20{slash}U0RXD-Pad30)">
+      <node ref="U3" pin="30" pinfunction="GPIO20/U0RXD" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="40" name="unconnected-(U3-GPIO21{slash}U0TXD-Pad31)">
+      <node ref="U3" pin="31" pinfunction="GPIO21/U0TXD" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="41" name="unconnected-(U3-NC-Pad4)">
+      <node ref="U3" pin="4" pinfunction="NC" pintype="no_connect"/>
+    </net>
+    <net code="42" name="unconnected-(U3-NC-Pad7)">
+      <node ref="U3" pin="7" pinfunction="NC" pintype="no_connect"/>
+    </net>
+    <net code="43" name="unconnected-(U3-NC-Pad9)">
+      <node ref="U3" pin="9" pinfunction="NC" pintype="no_connect"/>
+    </net>
+    <net code="44" name="unconnected-(U3-NC-Pad10)">
+      <node ref="U3" pin="10" pinfunction="NC" pintype="no_connect"/>
+    </net>
+    <net code="45" name="unconnected-(U3-NC-Pad15)">
+      <node ref="U3" pin="15" pinfunction="NC" pintype="no_connect"/>
+    </net>
+    <net code="46" name="unconnected-(U3-NC-Pad17)">
+      <node ref="U3" pin="17" pinfunction="NC" pintype="no_connect"/>
+    </net>
+    <net code="47" name="unconnected-(U3-NC-Pad24)">
+      <node ref="U3" pin="24" pinfunction="NC" pintype="no_connect"/>
+    </net>
+    <net code="48" name="unconnected-(U3-NC-Pad25)">
+      <node ref="U3" pin="25" pinfunction="NC" pintype="no_connect"/>
+    </net>
+    <net code="49" name="unconnected-(U3-NC-Pad28)">
+      <node ref="U3" pin="28" pinfunction="NC" pintype="no_connect"/>
+    </net>
+    <net code="50" name="unconnected-(U3-NC-Pad29)">
+      <node ref="U3" pin="29" pinfunction="NC" pintype="no_connect"/>
+    </net>
+    <net code="51" name="unconnected-(U3-NC-Pad32)">
+      <node ref="U3" pin="32" pinfunction="NC" pintype="no_connect"/>
+    </net>
+    <net code="52" name="unconnected-(U3-NC-Pad33)">
+      <node ref="U3" pin="33" pinfunction="NC" pintype="no_connect"/>
+    </net>
+    <net code="53" name="unconnected-(U3-NC-Pad34)">
+      <node ref="U3" pin="34" pinfunction="NC" pintype="no_connect"/>
+    </net>
+    <net code="54" name="unconnected-(U3-NC-Pad35)">
+      <node ref="U3" pin="35" pinfunction="NC" pintype="no_connect"/>
+    </net>
+    <net code="55" name="unconnected-(U5-*ALRT-Pad5)">
+      <node ref="U5" pin="5" pinfunction="*ALRT" pintype="output+no_connect"/>
+    </net>
+    <net code="56" name="unconnected-(U7-NC-Pad1)">
+      <node ref="U7" pin="1" pinfunction="NC" pintype="no_connect"/>
+    </net>
+    <net code="57" name="unconnected-(U7-NC-Pad2)">
+      <node ref="U7" pin="2" pinfunction="NC" pintype="no_connect"/>
+    </net>
+    <net code="58" name="unconnected-(U7-NC-Pad6)">
+      <node ref="U7" pin="6" pinfunction="NC" pintype="no_connect"/>
+    </net>
+    <net code="59" name="unconnected-(U7-NC-Pad7)">
+      <node ref="U7" pin="7" pinfunction="NC" pintype="no_connect"/>
+    </net>
+    <net code="60" name="unconnected-(U7-NC-Pad8)">
+      <node ref="U7" pin="8" pinfunction="NC" pintype="no_connect"/>
+    </net>
+  </nets>
+</export>
