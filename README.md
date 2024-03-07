@@ -1,13 +1,7 @@
 
 # Smart HVAC Probe
 
-A ESP32-C3 based probe deisgned for the the automatic calculation of r1234yf, r134, HC-30 and R744 refrigerant pressures from current atmospheric temperature.
-
-
-
-
-
-
+A ESP32-C3 based probe designed for the the automatic matching of r1234yf, r134, HC-30 and R744 refrigerant pressures from current atmospheric temperature.
 
 ## Features
 This Probe is deisgned for the the automatic matching of r1234yf, r134, HC-30 and R744 refrigerant pressures from current atmospheric temperature.
